@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jars/FreePastry-2.1.jar"
+    ]
+}
