@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+
+        {
+            "type": "java",
+            "name": "Launch MLSend1",
+            "request": "launch",
+            "mainClass": "FederatedML_Amazon.MLSend",
+            // "projectName": "Java_9efe53af",
+            "args": "9001 10.0.2.15 9001 4"
+        }
+        
+    ]
+}

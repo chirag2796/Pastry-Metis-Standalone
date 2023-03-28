@@ -1,0 +1,47 @@
+2023-01-23 10:48:36.131292: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-01-23 10:48:36.131346: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:189: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_train = train_data[feature_names].to_numpy()
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:190: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_test = test_data[feature_names].to_numpy()
+Citations shape: (5429, 2)
+Papers shape: (2708, 1435)
+                            67      1164  ...             2422    2040
+paper_id                 1153786  521252  ...           256106   51180
+term_0                         0       0  ...                0       0
+term_1                         0       0  ...                0       0
+term_2                         0       0  ...                0       0
+term_3                         0       0  ...                0       0
+...                          ...     ...  ...              ...     ...
+term_1429                      0       0  ...                0       0
+term_1430                      0       0  ...                0       0
+term_1431                      0       0  ...                0       0
+term_1432                      0       0  ...                0       0
+subject    Probabilistic_Methods  Theory  ...  Neural_Networks  Theory
+
+[1435 rows x 5 columns]
+Neural_Networks           818
+Probabilistic_Methods     426
+Genetic_Algorithms        418
+Theory                    351
+Case_Based                298
+Reinforcement_Learning    217
+Rule_Learning             180
+Name: subject, dtype: int64
+Train data shape: (1341, 1435)
+Test data shape: (1367, 1435)
+x_train:  (1341,)
+x_test:  (1367, 1433)
+y_train:  (1341,)
+y_test:  (1367,)
+Data Partitioning begins...
+device_<0xB0F653..> 804
+
+ device_<0xB0F653..>
+x_train:  (804,)
+y_train:  (804,)
+device_<0xD57568..> 536
+
+ device_<0xD57568..>
+x_train:  (536,)
+y_train:  (536,)

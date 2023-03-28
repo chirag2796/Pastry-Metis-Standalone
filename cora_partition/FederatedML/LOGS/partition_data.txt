@@ -1,0 +1,252 @@
+2023-03-27 20:18:10.855174: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-03-27 20:18:10.855252: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:190: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_train = train_data[feature_names].to_numpy()
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:191: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_test = test_data[feature_names].to_numpy()
+Citations shape: (5429, 2)
+Papers shape: (2708, 1435)
+                      2154           2158  ...        44                  1224
+paper_id           1126315        1118302  ...     1153703              415693
+term_0                   0              0  ...           0                   0
+term_1                   0              0  ...           0                   0
+term_2                   0              0  ...           0                   0
+term_3                   0              1  ...           0                   0
+...                    ...            ...  ...         ...                 ...
+term_1429                0              0  ...           0                   0
+term_1430                0              0  ...           0                   0
+term_1431                0              0  ...           0                   0
+term_1432                0              0  ...           0                   0
+subject    Neural_Networks  Rule_Learning  ...  Case_Based  Genetic_Algorithms
+
+[1435 rows x 5 columns]
+Neural_Networks           818
+Probabilistic_Methods     426
+Genetic_Algorithms        418
+Theory                    351
+Case_Based                298
+Reinforcement_Learning    217
+Rule_Learning             180
+Name: subject, dtype: int64
+Train data shape: (1373, 1435)
+Test data shape: (1335, 1435)
+x_train:  (1373,)
+x_test:  (1335,)
+y_train:  (1373,)
+y_test:  (1335,)
+Data Partitioning begins...
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py
+<0xC744B4..> 0.3 <0x894BC3..> 0.2 <0x912F32..> 0.5 
+{'device_<0xC744B4..>': 0.3, 'device_<0x894BC3..>': 0.2, 'device_<0x912F32..>': 0.5}
+device_<0xC744B4..> 411
+
+ device_<0xC744B4..>
+x_train:  (411,)
+y_train:  (411,)
+device_<0x894BC3..> 274
+
+ device_<0x894BC3..>
+x_train:  (274,)
+y_train:  (274,)
+device_<0x912F32..> 686
+
+ device_<0x912F32..>
+x_train:  (686,)
+y_train:  (686,)
+2023-03-28 02:34:03.976922: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-03-28 02:34:03.982726: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:190: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_train = train_data[feature_names].to_numpy()
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:191: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_test = test_data[feature_names].to_numpy()
+Citations shape: (5429, 2)
+Papers shape: (2708, 1435)
+                      2143  ...                2664
+paper_id           1119004  ...             1129610
+term_0                   0  ...                   0
+term_1                   1  ...                   0
+term_2                   0  ...                   0
+term_3                   0  ...                   0
+...                    ...  ...                 ...
+term_1429                0  ...                   0
+term_1430                0  ...                   0
+term_1431                0  ...                   0
+term_1432                0  ...                   0
+subject    Neural_Networks  ...  Genetic_Algorithms
+
+[1435 rows x 5 columns]
+Neural_Networks           818
+Probabilistic_Methods     426
+Genetic_Algorithms        418
+Theory                    351
+Case_Based                298
+Reinforcement_Learning    217
+Rule_Learning             180
+Name: subject, dtype: int64
+Train data shape: (1314, 1435)
+Test data shape: (1394, 1435)
+x_train:  (1314,)
+x_test:  (1394,)
+y_train:  (1314,)
+y_test:  (1394,)
+Data Partitioning begins...
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py
+<0x685DFB..> 0.5 <0x3B3A70..> 0.3 <0x7F9B1D..> 0.2 
+{'device_<0x685DFB..>': 0.5, 'device_<0x3B3A70..>': 0.3, 'device_<0x7F9B1D..>': 0.2}
+device_<0x685DFB..> 657
+
+ device_<0x685DFB..>
+x_train:  (657,)
+y_train:  (657,)
+device_<0x3B3A70..> 394
+
+ device_<0x3B3A70..>
+x_train:  (394,)
+y_train:  (394,)
+device_<0x7F9B1D..> 262
+
+ device_<0x7F9B1D..>
+x_train:  (262,)
+y_train:  (262,)
+Traceback (most recent call last):
+  File "/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py", line 3, in <module>
+    import pandas as pd
+  File "/home/chirag/fl/keras-gnn/keras-gnn-env/lib/python3.8/site-packages/pandas/__init__.py", line 48, in <module>
+    from pandas.core.api import (
+  File "/home/chirag/fl/keras-gnn/keras-gnn-env/lib/python3.8/site-packages/pandas/core/api.py", line 29, in <module>
+    from pandas.core.arrays import Categorical
+  File "/home/chirag/fl/keras-gnn/keras-gnn-env/lib/python3.8/site-packages/pandas/core/arrays/__init__.py", line 7, in <module>
+    from pandas.core.arrays.categorical import Categorical
+  File "/home/chirag/fl/keras-gnn/keras-gnn-env/lib/python3.8/site-packages/pandas/core/arrays/categorical.py", line 105, in <module>
+    from pandas.core.base import (
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 911, in get_code
+  File "<frozen importlib._bootstrap_external>", line 580, in _compile_bytecode
+KeyboardInterrupt
+2023-03-28 02:35:16.352858: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-03-28 02:35:16.352940: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:190: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_train = train_data[feature_names].to_numpy()
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:191: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_test = test_data[feature_names].to_numpy()
+Citations shape: (5429, 2)
+Papers shape: (2708, 1435)
+                      830     1337  ...        1089                   275 
+paper_id            628766    3236  ...     1116839                 134315
+term_0                   0       0  ...           0                      0
+term_1                   0       0  ...           0                      0
+term_2                   0       0  ...           0                      0
+term_3                   0       0  ...           0                      0
+...                    ...     ...  ...         ...                    ...
+term_1429                0       0  ...           0                      0
+term_1430                0       0  ...           0                      0
+term_1431                0       0  ...           0                      0
+term_1432                0       0  ...           0                      0
+subject    Neural_Networks  Theory  ...  Case_Based  Probabilistic_Methods
+
+[1435 rows x 5 columns]
+Neural_Networks           818
+Probabilistic_Methods     426
+Genetic_Algorithms        418
+Theory                    351
+Case_Based                298
+Reinforcement_Learning    217
+Rule_Learning             180
+Name: subject, dtype: int64
+Train data shape: (1354, 1435)
+Test data shape: (1354, 1435)
+x_train:  (1354,)
+x_test:  (1354,)
+y_train:  (1354,)
+y_test:  (1354,)
+Data Partitioning begins...
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py
+<0x4F3922..> 0.2 <0x942ADB..> 0.5 <0xBF5E8D..> 0.3 
+{'device_<0x4F3922..>': 0.2, 'device_<0x942ADB..>': 0.5, 'device_<0xBF5E8D..>': 0.3}
+device_<0x4F3922..> 270
+
+ device_<0x4F3922..>
+x_train:  (270,)
+y_train:  (270,)
+device_<0x942ADB..> 677
+
+ device_<0x942ADB..>
+x_train:  (677,)
+y_train:  (677,)
+device_<0xBF5E8D..> 406
+
+ device_<0xBF5E8D..>
+x_train:  (406,)
+y_train:  (406,)
+Traceback (most recent call last):
+  File "/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py", line 6, in <module>
+    import matplotlib.pyplot as plt
+  File "/home/chirag/fl/keras-gnn/keras-gnn-env/lib/python3.8/site-packages/matplotlib/__init__.py", line 105, in <module>
+    from packaging.version import parse as parse_version
+  File "/home/chirag/fl/keras-gnn/keras-gnn-env/lib/python3.8/site-packages/packaging/version.py", line 20, in <module>
+    Tuple[
+  File "/home/chirag/anaconda3/lib/python3.8/typing.py", line 804, in __getitem__
+    return self.__getitem_inner__(params)
+  File "/home/chirag/anaconda3/lib/python3.8/typing.py", line 258, in inner
+    return cached(*args, **kwds)
+  File "/home/chirag/anaconda3/lib/python3.8/typing.py", line 818, in __getitem_inner__
+    @_tp_cache
+KeyboardInterrupt
+2023-03-28 02:36:29.001824: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-03-28 02:36:29.001869: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:190: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_train = train_data[feature_names].to_numpy()
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py:191: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_test = test_data[feature_names].to_numpy()
+Citations shape: (5429, 2)
+Papers shape: (2708, 1435)
+                      1524        2372  ...           1301                   1381
+paper_id            230884       82666  ...         137380                1131607
+term_0                   0           0  ...              0                      0
+term_1                   0           0  ...              0                      0
+term_2                   0           0  ...              0                      0
+term_3                   0           0  ...              0                      0
+...                    ...         ...  ...            ...                    ...
+term_1429                0           0  ...              0                      0
+term_1430                0           0  ...              0                      0
+term_1431                0           0  ...              0                      0
+term_1432                0           0  ...              0                      0
+subject    Neural_Networks  Case_Based  ...  Rule_Learning  Probabilistic_Methods
+
+[1435 rows x 5 columns]
+Neural_Networks           818
+Probabilistic_Methods     426
+Genetic_Algorithms        418
+Theory                    351
+Case_Based                298
+Reinforcement_Learning    217
+Rule_Learning             180
+Name: subject, dtype: int64
+Train data shape: (1323, 1435)
+Test data shape: (1385, 1435)
+x_train:  (1323,)
+x_test:  (1385,)
+y_train:  (1323,)
+y_test:  (1385,)
+Data Partitioning begins...
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/partition_data.py
+<0x49FEAD..> 0.5 <0x4BA11D..> 0.2 <0x2FB94A..> 0.3 
+{'device_<0x49FEAD..>': 0.5, 'device_<0x4BA11D..>': 0.2, 'device_<0x2FB94A..>': 0.3}
+device_<0x49FEAD..> 661
+
+ device_<0x49FEAD..>
+x_train:  (661,)
+y_train:  (661,)
+device_<0x4BA11D..> 264
+
+ device_<0x4BA11D..>
+x_train:  (264,)
+y_train:  (264,)
+device_<0x2FB94A..> 396
+
+ device_<0x2FB94A..>
+x_train:  (396,)
+y_train:  (396,)

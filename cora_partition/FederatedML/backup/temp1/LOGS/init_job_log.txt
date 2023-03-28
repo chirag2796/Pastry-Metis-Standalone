@@ -1,0 +1,48 @@
+2023-01-23 10:48:40.708097: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-01-23 10:48:40.708152: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-01-23 10:48:43.425920: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2023-01-23 10:48:43.425989: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2023-01-23 10:48:43.426023: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (chirag-VirtualBox): /proc/driver/nvidia/version does not exist
+2023-01-23 10:48:43.426293: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/init_model.py:198: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_train = train_data[feature_names].to_numpy()
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/init_model.py:199: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  x_test = test_data[feature_names].to_numpy()
+/home/chirag/fl/keras-gnn/cora_partition/FederatedML/init_model.py:212: FutureWarning: Passing a set as an indexer is deprecated and will raise in a future version. Use a list instead.
+  papers.sort_values("paper_id")[feature_names].to_numpy(), dtype=tf.dtypes.float32
+Citations shape: (5429, 2)
+Papers shape: (2708, 1435)
+                 901     778   ...                1286             2452
+paper_id      1107215  217115  ...             1103985           675756
+term_0              0       0  ...                   0                0
+term_1              0       0  ...                   0                0
+term_2              0       0  ...                   0                0
+term_3              0       0  ...                   0                0
+...               ...     ...  ...                 ...              ...
+term_1429           0       0  ...                   0                0
+term_1430           0       0  ...                   0                0
+term_1431           0       0  ...                   0                0
+term_1432           0       0  ...                   0                0
+subject    Case_Based  Theory  ...  Genetic_Algorithms  Neural_Networks
+
+[1435 rows x 5 columns]
+Neural_Networks           818
+Probabilistic_Methods     426
+Genetic_Algorithms        418
+Theory                    351
+Case_Based                298
+Reinforcement_Learning    217
+Rule_Learning             180
+Name: subject, dtype: int64
+Train data shape: (1382, 1435)
+Test data shape: (1326, 1435)
+Edges shape: (2, 5429)
+Nodes shape: (2708, 1433)
+GNN output shape: tf.Tensor(
+[[ 0.18956316 -0.06006685 -0.00284738 -0.00115632 -0.04994065 -0.11470558
+  -0.02072139]
+ [-0.08542339 -0.0268204   0.00360832 -0.01182589  0.0152205   0.01603301
+  -0.01284013]
+ [-0.20308957 -0.00267082 -0.14242947 -0.00684702  0.02360773 -0.02687921
+  -0.0505042 ]], shape=(3, 7), dtype=float32)

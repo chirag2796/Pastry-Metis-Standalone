@@ -1,0 +1,3465 @@
+GNN output shape: tf.Tensor(
+[[-0.04741573  0.13217758 -0.01867187 -0.13444762 -0.16027398 -0.09752809
+  -0.00893146]
+ [-0.06733641  0.08875157  0.03821336 -0.08150784  0.03230169  0.06246474
+  -0.00620147]
+ [-0.02490287  0.05000281 -0.05599626 -0.11443937 -0.12766726  0.04702678
+   0.02154234]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.19503063 -0.11275281 -0.06667445  0.04442311 -0.07079363  0.03032339
+  -0.09686033]
+ [ 0.1215447  -0.06183662 -0.18790483 -0.05320957 -0.06190252 -0.16123948
+  -0.0479811 ]
+ [ 0.01942275 -0.07618062  0.01375605 -0.1160376   0.22616535  0.00725815
+   0.008163  ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.10569603  0.05506743  0.06237748 -0.13870259 -0.1722669   0.22404747
+  -0.04938047]
+ [ 0.05890292  0.05040748 -0.06808559  0.24486597  0.24460045 -0.04932937
+   0.08583263]
+ [-0.04085546 -0.07459588  0.06373457  0.00594577 -0.10342414  0.01096565
+  -0.04362268]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-3.6720105e-02  4.0700696e-02  1.7910633e-02  3.4166314e-02
+   1.0691583e-06 -1.5664181e-01 -1.8693046e-01]
+ [-3.9050914e-02  1.0873128e-02  2.5152739e-02 -1.1837160e-01
+  -3.2496367e-02  4.1698087e-03 -6.4942010e-02]
+ [-3.1311601e-02 -9.0440616e-02  5.0270632e-02 -7.8736551e-02
+   2.0210098e-02 -3.1173646e-02 -3.7453517e-02]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.96%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.03717037  0.09203112  0.08248576 -0.21457084 -0.09625863  0.09273451
+   0.16742793]
+ [ 0.00028241  0.06235975 -0.12589328  0.04972603 -0.15886408  0.05302589
+   0.00819063]
+ [-0.02622047  0.00767652 -0.00858385  0.01498591  0.07069234  0.12968555
+  -0.16894701]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.0185089   0.0601584   0.04476957  0.00427521 -0.05333679  0.03449513
+   0.11363932]
+ [-0.07392201 -0.13420215 -0.09957766 -0.07195459 -0.06560138  0.12533796
+   0.1315091 ]
+ [ 0.05941483 -0.01527298  0.21501595 -0.07784094  0.09549849  0.15156883
+   0.00405318]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.02046088 -0.15662917 -0.05592405  0.1880925  -0.0975062  -0.0921579
+   0.03275549]
+ [ 0.08242661  0.0823123  -0.01592004  0.0795202   0.00816685 -0.03929377
+  -0.12279128]
+ [ 0.01862875  0.10632387 -0.1698383   0.04659699  0.09014745  0.08653493
+  -0.17358714]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.01116855  0.23845764  0.06206814 -0.03058328  0.10959555  0.01020562
+  -0.16966493]
+ [ 0.01339267  0.2205902   0.02593199 -0.0853214   0.12163085 -0.02576622
+  -0.20541209]
+ [ 0.00383749 -0.27344668 -0.10149144  0.28550184 -0.22680286 -0.00217526
+   0.30785   ]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.65%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.06943548 -0.07069281  0.1203234   0.03959769  0.10357532 -0.00594678
+   0.00624088]
+ [ 0.01988852 -0.10715681  0.11295904  0.08444981  0.01667004 -0.00492565
+   0.1955782 ]
+ [-0.04481176  0.04649032 -0.15570387  0.06828878 -0.03930683 -0.11463563
+  -0.07367352]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.06654786  0.12810364  0.18394122 -0.0645671   0.0510607  -0.09357979
+   0.04878978]
+ [-0.00456926 -0.04018283  0.02651573  0.07445516  0.00368066 -0.01141861
+   0.0241599 ]
+ [-0.18633671  0.15603901  0.24295479  0.01900766 -0.07160612 -0.24846263
+   0.11540313]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.01994251  0.03244834  0.1545001  -0.09207705  0.02444593 -0.01630938
+  -0.03477109]
+ [ 0.14137855  0.05219826 -0.05285569  0.00231243  0.05970805  0.02566572
+   0.04073951]
+ [ 0.06419922  0.01963193 -0.04563005  0.01852713  0.03318789  0.01715875
+   0.05354733]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.0236069  -0.08943158 -0.05978069 -0.05312577 -0.09510165  0.07527187
+  -0.04752331]
+ [ 0.01483028 -0.10121786 -0.01242236 -0.00605438 -0.14362402 -0.04160117
+  -0.10863885]
+ [ 0.08619887 -0.07990431 -0.04609529 -0.04495366 -0.11696103  0.04343261
+   0.06146511]], shape=(3, 7), dtype=float32)
+Test accuracy: 28.2%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.01282803  0.1402806  -0.05962393 -0.08299161 -0.06732689 -0.07608755
+  -0.00520699]
+ [ 0.04601976 -0.09978975  0.08799356  0.00699413  0.00250329  0.07196429
+  -0.04155994]
+ [-0.03617867 -0.12046083  0.01307119  0.05396153 -0.03680847  0.12331799
+  -0.02281288]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.1144515  -0.12435761  0.04304355  0.10416705  0.08194563  0.08972624
+   0.12370921]
+ [-0.13879277 -0.1236492  -0.02619042  0.07998864  0.025536    0.09558722
+   0.1022177 ]
+ [ 0.00426493 -0.19048786  0.00520245  0.08575187  0.06923989  0.16107719
+   0.10474354]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-1.4200088e-01 -9.7756818e-02  3.2040380e-02  2.7716628e-03
+  -5.4473154e-02  1.1318080e-01  1.4466989e-01]
+ [-8.5103519e-02 -6.5552771e-02 -3.8331468e-03  1.9016147e-02
+   1.1625886e-04  1.8590722e-02  9.8034278e-02]
+ [-1.2813640e-01 -8.6697012e-02 -2.2360541e-02  4.7103420e-02
+   4.5995973e-02 -1.2830508e-01  1.0907341e-01]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.01482106 -0.03179644 -0.0106692  -0.09793811 -0.00764586 -0.02610583
+  -0.0176667 ]
+ [-0.04605269  0.03712115  0.02497153 -0.01580919 -0.04323316 -0.10403089
+   0.0384211 ]
+ [ 0.11923771 -0.0180305  -0.03040935  0.06393243 -0.10056362  0.0008567
+  -0.09770684]], shape=(3, 7), dtype=float32)
+Test accuracy: 17.28%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.17868526  0.12085298  0.07938179 -0.21591716 -0.12394193  0.10359808
+   0.14203173]
+ [ 0.11849833 -0.19499679 -0.1439986  -0.01826069 -0.03468836 -0.04781504
+   0.05565463]
+ [ 0.12624791 -0.04771645 -0.13680503 -0.0603814   0.13215809  0.03149767
+  -0.15499309]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.01464344  0.03463297 -0.10634624 -0.09663256  0.01692019  0.03901311
+   0.01354238]
+ [ 0.11471869  0.01948776 -0.08438636 -0.05808481  0.14649227 -0.03368754
+   0.06908414]
+ [ 0.01315378  0.09663914  0.05469554  0.05103036  0.05196863  0.01891308
+  -0.0567833 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.17361878 -0.02610387  0.18649593 -0.10277915  0.05076114 -0.142288
+  -0.05726527]
+ [ 0.08950815 -0.09335877  0.1351557  -0.03443485 -0.02313202 -0.04077308
+  -0.13880222]
+ [ 0.1649693  -0.10032942  0.02576808 -0.00773692  0.07991824 -0.09001033
+  -0.13197325]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.01753738  0.09045821  0.10003655 -0.06375112  0.10526425 -0.06182511
+   0.01103735]
+ [ 0.07681428  0.09099493  0.05179098 -0.03259004  0.03177979  0.03190229
+  -0.03218862]
+ [ 0.0402107   0.12920663  0.20182776 -0.02200307  0.06712238 -0.08716355
+  -0.04813114]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.52%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.05071103  0.05719599 -0.02242866 -0.03924152  0.0063316  -0.1129348
+   0.08557305]
+ [-0.0097713  -0.06990556 -0.03452601 -0.05405188 -0.09069797  0.09573846
+   0.00801385]
+ [ 0.03598849  0.01189136 -0.05596387 -0.09980199  0.08274131 -0.05550881
+   0.11371719]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.01624634  0.04695278 -0.01705875  0.05054554  0.03171459  0.05374274
+  -0.04849694]
+ [ 0.03984544  0.02247628  0.05527549 -0.02145126  0.03017076  0.00184882
+  -0.01773023]
+ [ 0.08592675 -0.04448948 -0.02536983  0.00638418 -0.0101054  -0.03691943
+   0.05261711]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.05399355 -0.07092485  0.12099005  0.22813813 -0.09471772 -0.0605168
+  -0.04395039]
+ [-0.13835566 -0.19772974  0.13802223  0.01242973 -0.0686823  -0.08505388
+   0.14432408]
+ [ 0.05191908  0.06659494 -0.03235072 -0.03514522 -0.03883204  0.0007292
+  -0.05769958]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.06845057 -0.06808361  0.05271634  0.04841467 -0.02532004  0.01347433
+  -0.13730493]
+ [ 0.00337837  0.0059154  -0.03278308  0.03530402  0.07914943 -0.08652014
+  -0.1614357 ]
+ [-0.02860544 -0.02981421  0.06908898 -0.0974298   0.11431014  0.03541824
+  -0.11346577]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.31%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.05088203  0.10370566 -0.20041704  0.17732258 -0.1437525   0.19604132
+   0.04835729]
+ [-0.04911631  0.0517479  -0.01454402 -0.04954451 -0.0719248  -0.04306482
+   0.00025034]
+ [ 0.01420682  0.02650174 -0.04825872 -0.06481458  0.19438362  0.10141105
+   0.12688029]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.03235736  0.03741159  0.03043787 -0.00532276  0.05021505 -0.12220728
+  -0.0891258 ]
+ [ 0.08288357 -0.05345413  0.02403536 -0.06525469 -0.09367944  0.00071928
+  -0.06663948]
+ [-0.0083257  -0.00441816  0.06158368  0.06267225 -0.00415512 -0.06240908
+  -0.06848159]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.06599478 -0.03031352 -0.01370285  0.06337592  0.14207941  0.0745974
+  -0.0161611 ]
+ [ 0.12783511 -0.0820154   0.02299978  0.07628307  0.19500408 -0.0218176
+  -0.06336591]
+ [-0.08141607  0.0120641  -0.10184883  0.0354802  -0.00737586  0.06200286
+   0.08480978]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.09775327 -0.03831878  0.15236807  0.13201511 -0.14258656  0.05149918
+  -0.09362875]
+ [ 0.07545478 -0.01820845  0.11710526  0.01473296 -0.13553393  0.0814511
+   0.03183786]
+ [ 0.16603956 -0.0432309   0.06197121 -0.07051152 -0.1909116  -0.00661505
+  -0.07327673]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.27%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.06879289 -0.12539467  0.07547314 -0.00681432 -0.14272475  0.02820329
+   0.11140956]
+ [ 0.02930578  0.1915954   0.04337888  0.02101589  0.00799499  0.05328611
+  -0.00930667]
+ [-0.08644737  0.0115265   0.02390469  0.03715562  0.02673532 -0.01113442
+   0.01071731]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.03909728  0.19243033  0.14094754 -0.07178858  0.13884999 -0.10930943
+   0.06591195]
+ [-0.03098016  0.06319278 -0.03504904 -0.00430651 -0.07060571 -0.04554939
+   0.01406676]
+ [ 0.0844184  -0.08155873  0.03590294  0.00957736 -0.03529672 -0.00662995
+   0.05552938]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.0138687   0.04497819 -0.00858358  0.0148296   0.00516944  0.0395121
+  -0.04771379]
+ [-0.01752907  0.08303329 -0.00441989  0.02529383 -0.04182889  0.00461739
+   0.01110372]
+ [-0.02626672 -0.08738038 -0.02060365 -0.05414689  0.00846139  0.08741532
+  -0.05823092]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.09934269 -0.13097002  0.11231974 -0.1844108   0.2677015  -0.13257341
+   0.15439199]
+ [-0.12330633 -0.09919737  0.03186186 -0.06596391  0.03694128 -0.06683994
+   0.05046379]
+ [-0.0447432   0.06668606 -0.03850131  0.06494647 -0.01716741  0.00353899
+  -0.04678486]], shape=(3, 7), dtype=float32)
+Test accuracy: 16.72%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.00854662  0.11801691 -0.16567302 -0.03256868  0.04271346  0.00832304
+   0.08965519]
+ [-0.08024248  0.16901156 -0.03320827  0.1283019   0.12206073  0.07481886
+  -0.1437061 ]
+ [ 0.01244585 -0.05334673  0.02025336  0.06117384 -0.20408791 -0.01756052
+  -0.03727507]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.01343455 -0.02080832 -0.10379314  0.0836933  -0.03745965 -0.06991363
+   0.17209065]
+ [-0.0298537  -0.08237104  0.06164036  0.1417082   0.01600948  0.11505364
+   0.03013422]
+ [-0.02418454 -0.12910016 -0.08988807 -0.10601236 -0.0915556   0.01373141
+  -0.04723696]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.01401376  0.00905322  0.06287228  0.02629085  0.0317489   0.06945235
+  -0.04786061]
+ [ 0.09137829 -0.00404041  0.06339091 -0.04465782  0.05984337  0.01514449
+   0.02733033]
+ [-0.12713103 -0.08267783 -0.00058599 -0.10181412 -0.04578889  0.0191718
+  -0.03098846]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.01937154  0.03415097 -0.00296736 -0.02142289 -0.00884884  0.02387161
+   0.05890749]
+ [ 0.00302742 -0.1594859   0.03976227 -0.0303363  -0.00064915 -0.07918645
+  -0.0303372 ]
+ [ 0.05843701 -0.11375186 -0.00466495 -0.03429263  0.00438784  0.0028191
+   0.04447094]], shape=(3, 7), dtype=float32)
+Test accuracy: 26.37%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03284606 -0.15468371 -0.04260758 -0.08318831  0.03625144 -0.10752086
+   0.187459  ]
+ [ 0.05928798 -0.02684606 -0.00791568  0.1015628   0.04823135  0.0123511
+  -0.03978683]
+ [ 0.08039227 -0.05570213  0.09225646  0.16143857 -0.11716545  0.10214891
+  -0.10647014]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.04427381 -0.00028525 -0.00752671  0.12268535  0.15528828  0.15400365
+  -0.09193619]
+ [ 0.07372126 -0.05372742 -0.07522462  0.07173222 -0.02204296 -0.02611929
+   0.05168492]
+ [ 0.03531033 -0.00904157 -0.09006631  0.03855725 -0.02438178 -0.01117735
+   0.0227904 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.03301076  0.09927557 -0.05126099 -0.04243085 -0.01301566 -0.17143632
+   0.0297907 ]
+ [ 0.01337021 -0.01914523 -0.11725482 -0.06366462 -0.07911485 -0.00988497
+   0.00459885]
+ [ 0.13556235  0.09810063 -0.23778057 -0.11960731 -0.08766346  0.12240051
+  -0.07595   ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.18047127 -0.0345799   0.0524279   0.02998654 -0.14324084 -0.02262928
+  -0.10807213]
+ [ 0.16423386  0.09616797  0.01427374  0.00551835 -0.09423689 -0.01871494
+  -0.13596214]
+ [-0.11068749 -0.03143825  0.05229783  0.14877693 -0.03796828  0.01727789
+   0.10138875]], shape=(3, 7), dtype=float32)
+Test accuracy: 18.12%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.05018892 -0.03773488 -0.0892448   0.01712784  0.04467518  0.06709593
+   0.03969362]
+ [-0.0161041   0.06789834 -0.18500218  0.07777874 -0.05653425 -0.19161189
+   0.2046421 ]
+ [-0.03553717  0.0851692  -0.00078334 -0.03642892 -0.02838998 -0.08926129
+   0.01180202]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.03249312  0.03871443  0.13731156 -0.02858643 -0.04599765  0.05987706
+  -0.04927619]
+ [ 0.07402878 -0.03650479  0.06412782  0.10809655 -0.20854011  0.14484608
+   0.00255189]
+ [ 0.06696342  0.01981169  0.01357017  0.06595605  0.0165636  -0.09139293
+  -0.00682662]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.04744006 -0.09918019 -0.0985956  -0.17930838 -0.20245486  0.00679402
+   0.11360036]
+ [ 0.01293745  0.08550237  0.11771329  0.04813003  0.03912134  0.11413501
+  -0.01213203]
+ [-0.02864714 -0.13054344  0.02557164  0.06049084 -0.0093949  -0.03172439
+   0.02115243]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.01552972 -0.09887333 -0.00592375  0.09473021  0.16416574 -0.15257062
+   0.15210295]
+ [-0.01404738 -0.10929444  0.0529481  -0.03264715  0.08495858 -0.03707396
+   0.11761213]
+ [ 0.05155388  0.03732529  0.01065326  0.08915684  0.01170728  0.02712177
+  -0.0046356 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 24.22%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.05342611  0.03306501 -0.046251    0.01939501  0.08830608 -0.05991622
+  -0.09394495]
+ [-0.06945929 -0.02151201  0.05360194  0.02791046 -0.07331999 -0.02811205
+  -0.03964153]
+ [ 0.00610168 -0.04945108  0.05499978 -0.02217785  0.07049668  0.02084349
+  -0.025852  ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.11395422 -0.01495255  0.0109967   0.0780794   0.05115932  0.05780336
+   0.15456945]
+ [-0.12776433  0.14456788  0.12387031 -0.03503635 -0.07486825 -0.07623492
+   0.00088062]
+ [-0.00689578  0.02307914  0.00707388 -0.03434557 -0.1091553  -0.12612431
+  -0.11593898]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.12647083  0.1877016  -0.00236883 -0.01866089  0.0439601  -0.02168849
+   0.08725546]
+ [ 0.06468086  0.13844796  0.05110532 -0.00080469  0.0208874   0.03876083
+   0.00957444]
+ [ 0.05363868  0.0514187   0.03052218  0.093125    0.09567754 -0.0745459
+   0.11595611]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.08829875  0.02314715 -0.18869753  0.02408499  0.05092235 -0.10604492
+   0.00813681]
+ [ 0.10331821  0.03472633 -0.14458866  0.11108737  0.14274022 -0.00139348
+  -0.09657445]
+ [ 0.09858796  0.13569745 -0.35582542  0.06220106  0.06874376 -0.12347689
+  -0.0217974 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 19.94%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.06165921 -0.02020804  0.007713    0.08230518  0.09798551 -0.11563595
+  -0.05500259]
+ [-0.02983445 -0.05043928  0.10900356 -0.06905299 -0.03927396 -0.09458938
+   0.1104585 ]
+ [ 0.00717543  0.00648652  0.00907145 -0.0869786  -0.06114621 -0.09107061
+   0.0909087 ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.01431138  0.01117295  0.07750334  0.0138869   0.03973046 -0.07397226
+  -0.06723025]
+ [-0.18459898  0.02220175  0.09161115 -0.01535227 -0.06908798 -0.10179564
+   0.0435652 ]
+ [ 0.0471267   0.10962638  0.09920709 -0.06040345  0.19700243  0.01513677
+   0.00922684]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01406541  0.0863151   0.01804145 -0.1189116  -0.05507828  0.08871052
+   0.08157472]
+ [-0.04316131 -0.01626509  0.12153371  0.06169962  0.12196262 -0.00468017
+   0.1235708 ]
+ [ 0.03998599  0.11884927  0.07514858  0.06878261 -0.09050235  0.07562297
+   0.0042144 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.11905004 -0.03661568  0.06049865 -0.04708406 -0.02471687  0.0540493
+  -0.06555887]
+ [-0.05713724 -0.25299817  0.09237152 -0.05379126  0.01865664  0.04722609
+  -0.14976084]
+ [-0.11905485  0.07128022  0.08214635 -0.03003238  0.10153052  0.07066361
+   0.10680735]], shape=(3, 7), dtype=float32)
+Test accuracy: 24.73%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.03141287 -0.05689346  0.04282372 -0.09331353  0.04797132  0.02874941
+  -0.07702106]
+ [ 0.13066594 -0.13423423 -0.02268551  0.01353899  0.02352856  0.0846924
+   0.07635942]
+ [ 0.01038563 -0.16813198  0.0996974   0.01229255  0.0749857  -0.05120934
+  -0.00547945]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.04122581 -0.08437575 -0.0764747   0.01412563  0.09446545  0.00971593
+   0.03783774]
+ [-0.08213046 -0.03277782 -0.01548543 -0.11530683  0.04357944  0.05687823
+  -0.07848366]
+ [ 0.10689607 -0.08119638 -0.06429876  0.04803023 -0.07744119 -0.02019636
+  -0.02432148]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.05854295 -0.20518145  0.14345948 -0.05654626 -0.01890542  0.08994856
+  -0.13950719]
+ [ 0.0177477  -0.15663935 -0.05038211  0.11059499  0.09611751  0.11787418
+  -0.1446788 ]
+ [-0.13153775 -0.01423053  0.04712151  0.07483685  0.0614868   0.19563402
+  -0.1702133 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.09041546 -0.13366035  0.18129952  0.11354376 -0.04856181  0.07072487
+  -0.17206693]
+ [ 0.05463685 -0.04467539  0.02769428 -0.18660045  0.02915264  0.08574809
+   0.05212344]
+ [ 0.04658917 -0.06064852 -0.01061964 -0.1061653  -0.04924132  0.06330664
+  -0.01323468]], shape=(3, 7), dtype=float32)
+Test accuracy: 15.46%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.00282812 -0.00391242 -0.1497195   0.03837335 -0.00468903 -0.0086115
+   0.01408971]
+ [-0.01605032  0.08256041 -0.25941086 -0.01214429 -0.00584319 -0.17559925
+  -0.0512279 ]
+ [-0.03892171  0.04864833  0.00391123  0.05811824  0.06817617 -0.02699633
+  -0.05976599]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.11094113 -0.06347931  0.0669075  -0.01976479 -0.05000827 -0.06932134
+  -0.10631701]
+ [ 0.03142701 -0.06793047 -0.00074299 -0.0476634   0.01506263 -0.01095665
+  -0.02073922]
+ [-0.06728408 -0.03292186 -0.00624508 -0.06905279  0.06151609  0.03289357
+   0.1141009 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.01042152 -0.04133924  0.02180779  0.03176976  0.02135636  0.07069269
+  -0.00979073]
+ [-0.01068003 -0.0678725  -0.16793342  0.04369322  0.00497073 -0.01834086
+   0.00020194]
+ [-0.02839887 -0.05886132  0.08457935 -0.05919297 -0.00446352 -0.06547244
+   0.11221281]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06574319  0.01213523  0.00296612 -0.01962028  0.04231909  0.00183142
+   0.0173135 ]
+ [ 0.00700733 -0.00325741 -0.00074805 -0.12823226  0.17307536 -0.03164463
+   0.07346299]
+ [ 0.03768519  0.11382065 -0.001518   -0.1292842   0.01243256  0.0104563
+  -0.00129035]], shape=(3, 7), dtype=float32)
+Test accuracy: 32.57%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.04031534  0.09865676 -0.07126639 -0.03212861 -0.09436779 -0.05766823
+   0.02431097]
+ [-0.23682967 -0.13493839  0.08357635  0.21588227 -0.09594309  0.15868005
+   0.16736475]
+ [-0.07654683 -0.12712088 -0.01658495  0.17507535 -0.14095119  0.04708772
+   0.01713073]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.08451863 -0.15438895  0.03523032  0.08239634  0.26585186 -0.17374234
+   0.01128349]
+ [-0.0719392   0.08374265 -0.1401352   0.16932699  0.18013278  0.10815419
+   0.03503849]
+ [-0.05379197 -0.03772247  0.05607542 -0.124043    0.0517687  -0.1493977
+  -0.05463303]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.07387695  0.02451179 -0.02867343 -0.01146276 -0.02547581 -0.02396319
+  -0.02022376]
+ [-0.02988892  0.00178044  0.05528556 -0.00331375 -0.01060716 -0.02689571
+   0.02004741]
+ [-0.03971814 -0.02073744  0.15393881 -0.03373794  0.01831421  0.12560824
+   0.00362831]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06838268  0.11156564  0.3679564  -0.02970325  0.02168536  0.05585897
+   0.00384999]
+ [ 0.17619506  0.06917538 -0.10320038 -0.24754243  0.05200422  0.01010352
+  -0.13971946]
+ [-0.02322521 -0.13216004  0.12104832  0.09620821  0.16427112 -0.10137313
+   0.09315126]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.47%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.04222743 -0.05828243 -0.02550608  0.04605306 -0.01646311  0.06218113
+   0.08050001]
+ [-0.05360672  0.00080751 -0.07998776  0.11261192  0.04352177  0.16108498
+   0.0341301 ]
+ [-0.06094912  0.03939164  0.02386298 -0.01647482  0.04547088 -0.08080721
+  -0.11979119]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.02968503  0.08735402 -0.12340236 -0.05658274 -0.0744693   0.02223304
+   0.08516753]
+ [ 0.12970343  0.14250314 -0.06569368 -0.15690151 -0.11093996  0.0321912
+   0.08354543]
+ [ 0.01551369 -0.04544982  0.13869967  0.10638687  0.0217536   0.10911147
+   0.01899121]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.00559002  0.0269044   0.02519374 -0.05259977  0.00961406  0.02830525
+  -0.02749531]
+ [ 0.09780839  0.10264662 -0.09252807  0.08925625 -0.06887428  0.04571759
+   0.00180443]
+ [-0.02452479  0.0618355  -0.05449716  0.02239188  0.03647766 -0.04453918
+  -0.02854241]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06431993 -0.0251621  -0.02153466  0.09030463 -0.07307353 -0.02513437
+   0.07520242]
+ [-0.05748875  0.02944905 -0.05912736  0.09275217  0.19763461  0.08732266
+  -0.03953082]
+ [-0.0797498   0.0248367   0.10068876  0.09143721  0.00212369 -0.05841483
+   0.05347358]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.68%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.0487784   0.04118499 -0.00183453 -0.08699863 -0.04444454  0.03439584
+  -0.03841777]
+ [-0.02468621  0.12650678  0.00157524 -0.04553235 -0.03515411  0.00945408
+   0.01539633]
+ [ 0.005161   -0.0102244  -0.03909218 -0.01520665  0.04998937 -0.07785942
+   0.00560298]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.008131    0.04912198  0.00707218  0.06644671 -0.00068282 -0.01967526
+  -0.06951792]
+ [-0.02517047  0.09630327 -0.0157508   0.01480813 -0.01752586 -0.09523128
+  -0.05776322]
+ [-0.07566212 -0.0647677  -0.09455508  0.04608607 -0.1128242   0.03537716
+   0.01521047]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01310142  0.31955034  0.25410026  0.02676947 -0.08687903 -0.18782291
+  -0.14785758]
+ [-0.03445864  0.34586865  0.09069087 -0.1585784   0.01363716  0.0422968
+   0.08920997]
+ [ 0.13465454 -0.1390081  -0.10332598 -0.06081548 -0.03711606  0.16649154
+   0.05916184]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.01633376  0.05397304 -0.0217178   0.06223334 -0.02677301  0.00086429
+  -0.05035524]
+ [ 0.0610951   0.02459015  0.04987341  0.01935101  0.08269341 -0.00604052
+  -0.04392751]
+ [ 0.03661394  0.00616933 -0.04522091 -0.07058019  0.02457403 -0.09854688
+  -0.0168182 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 19.39%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.07484857  0.0722454   0.08425632  0.02219614 -0.02415666  0.20814493
+   0.01402774]
+ [ 0.04605935  0.05574683  0.0222545  -0.03029007 -0.0176929   0.05253642
+  -0.03255858]
+ [ 0.12811482  0.04483976 -0.06469014  0.02117929 -0.03468313 -0.3090939
+  -0.04306102]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.01721326  0.22872671 -0.1475301   0.23308799  0.09478004 -0.09666508
+   0.3816425 ]
+ [-0.15970355 -0.05852741 -0.10337856  0.06788509 -0.06482841 -0.00461945
+   0.00357683]
+ [-0.04799394 -0.02190135  0.02553305  0.03114799 -0.06069072  0.02953082
+  -0.10749475]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.06042762  0.06821944 -0.03809252  0.01736046  0.0011736   0.18651894
+   0.03358405]
+ [ 0.07197745 -0.03151823 -0.10721239  0.06417374  0.04702709  0.00485378
+  -0.03200156]
+ [-0.24095687 -0.03165711  0.04449224 -0.09699605 -0.11033004  0.0272047
+   0.00490252]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.0707281   0.08281041 -0.05497325  0.04734872  0.06835158 -0.0089149
+  -0.00404672]
+ [-0.09759318  0.07390708  0.0118477   0.08969723  0.16566327  0.04811968
+   0.01938321]
+ [-0.07791246 -0.09446044  0.04511159  0.17734452  0.07285383 -0.00507306
+   0.02100888]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.24%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.11448205 -0.09138234 -0.10123742  0.08192287  0.06650306 -0.11939096
+   0.01233812]
+ [-0.0709448  -0.00493284 -0.11247353 -0.02075168 -0.01163053 -0.11260287
+   0.0931142 ]
+ [ 0.06454046  0.032708    0.10917988  0.0707908   0.02227257 -0.03199581
+  -0.16669828]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.01818731  0.09030744  0.00754787  0.0701609  -0.05445301  0.03185081
+  -0.00207702]
+ [-0.13886888 -0.00411773  0.01992074  0.10212667 -0.03611848 -0.0084
+  -0.05441894]
+ [ 0.06414651  0.02095436  0.03751042 -0.01220767  0.03107221  0.01613499
+  -0.12651797]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.13835318  0.0268323   0.16860951  0.09849278  0.18168631 -0.00049063
+   0.13556182]
+ [-0.05379057 -0.04231167  0.15964329  0.01003508  0.16191545 -0.06794523
+   0.18255478]
+ [-0.05369259  0.05961984  0.1811305  -0.08207836  0.0832426  -0.04172827
+   0.10854122]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.0916728   0.00110384  0.15093113  0.02576378 -0.03096912  0.06831129
+   0.11591554]
+ [ 0.06362081  0.0066293  -0.02679076  0.03794811  0.07256491 -0.05523262
+   0.00469626]
+ [-0.05150248  0.09403953  0.01308719  0.06127134 -0.00741472  0.04462654
+   0.02048566]], shape=(3, 7), dtype=float32)
+Test accuracy: 25.8%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.06672668  0.05308505 -0.05333822  0.01106448  0.07706396  0.11382392
+  -0.03955594]
+ [ 0.01782709  0.06898091 -0.00453448 -0.01876034  0.06752279  0.07662013
+   0.04403696]
+ [ 0.12503165  0.01634817 -0.04746446 -0.04596324  0.04152112  0.06338403
+   0.04568722]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.02234995  0.06527638 -0.03253149 -0.23836952  0.2228557   0.10418902
+  -0.05372341]
+ [ 0.09383345 -0.05087265 -0.01792355 -0.01352083  0.06124283 -0.07701777
+  -0.10772038]
+ [-0.04505649  0.11147965 -0.04549526 -0.1688334   0.08063658  0.17272218
+  -0.11965172]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.03139244  0.08790153 -0.02519276  0.20101339  0.02139104  0.1281285
+   0.12719604]
+ [-0.05182796  0.13359581  0.01816059  0.1426573  -0.00292122  0.12043346
+   0.07133761]
+ [-0.04290754  0.03324075 -0.133945    0.14959246 -0.04120224 -0.00432425
+   0.01782586]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.11720297 -0.09677391 -0.07654548 -0.00618259  0.16816369 -0.00184665
+  -0.15815592]
+ [ 0.01347958 -0.01012054  0.03605744  0.03891001  0.04231754  0.05021566
+   0.01998056]
+ [-0.04065625  0.1453475   0.04351374  0.13719356 -0.08750853  0.02323832
+   0.03786324]], shape=(3, 7), dtype=float32)
+Test accuracy: 18.79%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.1113046   0.05325621  0.04569115  0.06080659 -0.0789031  -0.19074531
+   0.11172997]
+ [ 0.0218544  -0.03301322 -0.07307825 -0.19636515  0.18779989 -0.03616796
+   0.06757747]
+ [ 0.01164557  0.02369473  0.03350832 -0.01708743 -0.07027581 -0.04392926
+  -0.04201715]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.10307958  0.10476626 -0.09825127 -0.00201411  0.08323327  0.05492818
+  -0.05343708]
+ [-0.01818146  0.05416773 -0.01609348 -0.14668602 -0.09466261  0.02405067
+   0.04315967]
+ [-0.14501202  0.09312999  0.06004658  0.01549953  0.00639192  0.13244969
+  -0.15808938]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01831548 -0.07200735  0.0774885  -0.01890023  0.02583673 -0.03360067
+  -0.07187143]
+ [-0.11377999 -0.13259605  0.00988835 -0.00985818  0.05930439  0.02235382
+  -0.05495584]
+ [-0.08769119 -0.04164408 -0.05835595 -0.07564353 -0.05439217 -0.05140698
+   0.00829297]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06949759  0.02011904 -0.0891821  -0.11504767  0.07399767 -0.06763509
+   0.01672469]
+ [-0.01466707  0.0558961  -0.01618452  0.07129885  0.08803655 -0.04793932
+   0.05423744]
+ [ 0.00477285 -0.00145712  0.04987565  0.17206456  0.02111466  0.04396578
+  -0.17546567]], shape=(3, 7), dtype=float32)
+Test accuracy: 29.33%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.04415641 -0.0016363   0.0117023  -0.04535402  0.00186784  0.07103539
+   0.00432004]
+ [ 0.02427572 -0.05692806  0.04270662 -0.04352319  0.03835293  0.01273443
+   0.00331423]
+ [-0.24584213 -0.15205604 -0.08672182  0.02387624  0.18531182 -0.01102253
+   0.09446695]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.01213529  0.02380035  0.06317326 -0.10735433  0.09093515 -0.08042336
+   0.13959333]
+ [-0.00823546  0.0218833  -0.00204298 -0.08829589  0.11210489 -0.04073727
+  -0.00201498]
+ [-0.00582953 -0.02536055  0.01849186 -0.05041873  0.10629281  0.01865783
+  -0.00090797]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.08503095  0.00424022  0.02960956  0.00776153  0.04303652 -0.09166488
+  -0.0041304 ]
+ [ 0.0111439   0.05020897  0.06567321 -0.0075985  -0.11273945  0.01320634
+  -0.09868588]
+ [ 0.06847648  0.01510569  0.06202953  0.05789064  0.07603651 -0.08542328
+  -0.0054991 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.13813786 -0.05539896  0.08474843  0.09794076  0.0701306   0.10700651
+  -0.05348454]
+ [-0.06958368  0.07138759 -0.10067911 -0.09733736 -0.12899446  0.01598544
+  -0.13291642]
+ [ 0.05201586 -0.05572246  0.04483803  0.14443713  0.04948933  0.12622474
+  -0.03069087]], shape=(3, 7), dtype=float32)
+Test accuracy: 26.99%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.11256041  0.04505161 -0.10275542  0.03649046 -0.00787133 -0.07324816
+  -0.00318243]
+ [-0.00914581 -0.00264651 -0.06042137 -0.05582621  0.01802607 -0.21216482
+  -0.02986047]
+ [ 0.02972933 -0.00403977 -0.12110791 -0.05752725  0.0951911   0.03671578
+   0.03742385]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.01746901  0.01938768 -0.0729823   0.0135668   0.05966584 -0.03291002
+  -0.09110479]
+ [ 0.06416629 -0.10164982 -0.0775114   0.01695351  0.10098474 -0.09689185
+  -0.05243175]
+ [ 0.00117525 -0.23697244 -0.15522367 -0.0323723   0.04000917 -0.01913145
+  -0.07791159]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.03307987 -0.01085177 -0.06818229 -0.00330047 -0.07009575 -0.09499414
+  -0.00955126]
+ [-0.10139535 -0.00584478 -0.05522488  0.04543818  0.12793067 -0.02238952
+  -0.07059803]
+ [-0.12312952  0.07598919  0.16251127 -0.18513978  0.02847653  0.11885013
+   0.0365647 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.00090685  0.12538618  0.00896554  0.00725384  0.04649817  0.02960857
+  -0.06085775]
+ [-0.1774937  -0.14440042  0.0416228   0.01686788 -0.29560465  0.06534234
+   0.17013246]
+ [ 0.01163619 -0.1579977  -0.17357042  0.01067631  0.06218861 -0.11810485
+   0.16155884]], shape=(3, 7), dtype=float32)
+Test accuracy: 21.13%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.03235396 -0.15734501  0.04945796  0.01387121  0.04711476 -0.05788081
+  -0.1323479 ]
+ [-0.0227206   0.1506705   0.01194107 -0.0116292   0.05158835 -0.04793069
+   0.10042419]
+ [-0.0802573   0.07249177  0.04305997 -0.07166657 -0.02077857  0.08091503
+   0.00672112]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.03561023  0.01623363  0.01999232  0.11496569 -0.01999233 -0.14361744
+   0.10275551]
+ [-0.02257709  0.05567284  0.02361863 -0.05874574 -0.00416194  0.14208761
+  -0.0513781 ]
+ [-0.05858411  0.03745357  0.00952318  0.04002759 -0.05688445 -0.17993702
+   0.14366795]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.01058431  0.07063612 -0.17657998  0.00567355 -0.04777563 -0.06250728
+   0.07283535]
+ [ 0.05972553  0.00722695  0.00636458 -0.00728067 -0.01081746 -0.02527145
+   0.01076636]
+ [ 0.01719202  0.00652376 -0.08657733  0.09426065 -0.10181318  0.01842017
+  -0.00272556]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.0466349   0.04208967 -0.02489307  0.07912453 -0.10380715  0.03845691
+  -0.01658219]
+ [ 0.08592808  0.01046405 -0.00310026  0.01722092 -0.10204335 -0.02440815
+   0.02028875]
+ [ 0.05440407  0.0256317  -0.06804596 -0.20010734 -0.05502153 -0.05602816
+  -0.04180278]], shape=(3, 7), dtype=float32)
+Test accuracy: 19.79%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.10139263 -0.08900452  0.05578788 -0.06411999 -0.1288946   0.0162333
+   0.09955301]
+ [-0.00832213  0.0229126   0.00065839  0.09555357 -0.09299128 -0.12699886
+  -0.01133274]
+ [-0.07731357 -0.01434018  0.01816581  0.11326632 -0.07399435 -0.07781067
+   0.03339269]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 1.13307782e-01  9.31491256e-02  1.23204723e-01 -4.93412353e-02
+  -1.71555579e-01  1.50724817e-02 -2.80391164e-02]
+ [ 2.40498364e-01  2.36786902e-04  9.61184949e-02 -3.06572951e-02
+  -1.20949544e-01 -1.24613754e-01  1.51644852e-02]
+ [ 5.29764518e-02 -2.59864926e-02  1.08115628e-01 -7.05182850e-02
+  -1.23217419e-01 -2.27677096e-02  1.13299996e-01]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.05706139 -0.01578188 -0.04704107 -0.05926061  0.0138752   0.0342011
+   0.04530936]
+ [ 0.00932782 -0.01242099 -0.0856097  -0.04831576  0.06171145  0.02503032
+  -0.09736311]
+ [ 0.07376314 -0.00996441  0.13868958 -0.06672211  0.00883982 -0.00501892
+  -0.04750326]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.00686463 -0.06093264  0.04152425  0.18549581 -0.1524726   0.08995616
+  -0.112052  ]
+ [ 0.029548    0.0279703   0.00144922  0.00539463  0.07222106  0.0192807
+   0.00207873]
+ [-0.0199299  -0.08304966  0.07243932 -0.02846538  0.06306195 -0.0438172
+  -0.05039883]], shape=(3, 7), dtype=float32)
+Test accuracy: 14.92%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.30047855  0.08572035 -0.0990286   0.13299057  0.06410916  0.01751506
+  -0.06610283]
+ [-0.01276386  0.00509297 -0.09163024  0.01973066  0.10704149 -0.05880247
+  -0.14858672]
+ [ 0.0156562  -0.02476017 -0.00987507  0.122368    0.13826899 -0.10046471
+  -0.02772673]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.01617778  0.00547567  0.02835003  0.01290364  0.08950207  0.1615921
+   0.10459068]
+ [ 0.0852237  -0.09529437 -0.1263952   0.04952218  0.07052071 -0.1254355
+   0.04936051]
+ [ 0.11961555 -0.03608967 -0.07447423  0.08453755  0.02281017  0.14807476
+   0.19525868]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.05484724 -0.00683137  0.05484503 -0.05590603 -0.01098552 -0.05608599
+   0.01863923]
+ [ 0.11252729  0.0448761  -0.0404556   0.11791157  0.04174636 -0.0512827
+  -0.07487396]
+ [ 0.12783073 -0.03338381  0.02061254  0.06466593  0.01718493 -0.156259
+  -0.0273022 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.09212992 -0.00797746 -0.06747378  0.097231    0.03566789 -0.17072012
+  -0.03308248]
+ [-0.00830123  0.0166037  -0.0107412  -0.18405372  0.00304272 -0.00675543
+   0.00492222]
+ [-0.03235772 -0.0444208   0.01872073  0.04258922 -0.04940907 -0.16201752
+  -0.02478745]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.62%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.0470672   0.00921885 -0.2961905  -0.00266232  0.0547495  -0.0087877
+   0.05780537]
+ [ 0.00093306  0.02939475 -0.10026176 -0.02105057 -0.00971628  0.05016814
+   0.04677359]
+ [-0.04596701  0.0546096   0.0047314   0.0230739  -0.03738959 -0.15120465
+  -0.05836172]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.06743233  0.0834944   0.00344531 -0.01922905 -0.01178519  0.01446142
+  -0.02311428]
+ [ 0.10437143  0.09432714  0.03703033 -0.0723068  -0.00466002  0.01582374
+   0.04907427]
+ [-0.06465514 -0.18801048 -0.04598423  0.03258454 -0.02166492 -0.00955086
+   0.01055384]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.02332907 -0.014602    0.00388222  0.02886325 -0.00547765  0.1028655
+   0.02307911]
+ [ 0.21122482 -0.04049906  0.13427015  0.05030754 -0.04225377 -0.04227178
+  -0.13604563]
+ [ 0.10856182 -0.11812588  0.04165489  0.08594686 -0.07201437 -0.03540658
+   0.02818726]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.00365473  0.14399678 -0.18168406 -0.00110956  0.09603034 -0.05022236
+  -0.00312184]
+ [-0.00422566  0.00802805 -0.05353262 -0.12966579 -0.22646461  0.02784989
+   0.06963372]
+ [-0.03156776 -0.06341368 -0.34900546 -0.03532953  0.14199392 -0.05963092
+   0.0543425 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 25.06%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.00543788  0.04807933 -0.02989665  0.12981528  0.10292783 -0.05257399
+  -0.0140443 ]
+ [ 0.04812552 -0.01686028  0.00255726  0.10465409  0.1359747  -0.05073329
+  -0.05914012]
+ [-0.02489389 -0.01846825 -0.04862312  0.11029046  0.04899264 -0.01757656
+   0.00331454]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.06656812  0.03080578  0.1802759   0.10463057 -0.07145305  0.14318748
+  -0.05158319]
+ [ 0.01747374  0.12488702 -0.15156594  0.10306521 -0.18568075  0.04348879
+   0.04943582]
+ [-0.02541581 -0.03062253  0.1035362   0.07361814  0.07306273 -0.09904603
+   0.04425979]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.04650375  0.01959762  0.09794796 -0.02315314  0.06879335 -0.03310521
+   0.08493978]
+ [ 0.04195903  0.03210153  0.03525689 -0.02007925  0.04897869 -0.03716191
+   0.0339404 ]
+ [-0.12146543 -0.15948252  0.05698639  0.00033692 -0.14693399  0.05867029
+  -0.10883402]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.01859791  0.0744824   0.09199131 -0.27171436  0.06528536  0.19703877
+   0.01697163]
+ [ 0.05786926  0.00578051 -0.02427958 -0.08857147  0.01063767  0.03782369
+   0.06893276]
+ [-0.03822821 -0.03418592 -0.01133158  0.06627981  0.08012221 -0.05170546
+   0.04615006]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.59%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.10715995 -0.07857799  0.01717857 -0.05521657 -0.12912047  0.03908417
+   0.01455982]
+ [-0.04918653 -0.04994254  0.21659619  0.0664719  -0.10576718 -0.02492827
+  -0.10043251]
+ [-0.00485973  0.05792005 -0.02499801 -0.0779288  -0.00423509  0.05749626
+   0.10610715]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.11206047 -0.0044723   0.11835556 -0.02382204  0.06703371 -0.03434339
+   0.08560438]
+ [ 0.01527142 -0.10491563  0.01595946 -0.0389563   0.1401281  -0.04104475
+   0.03361078]
+ [ 0.09209778  0.12536432  0.22799197  0.10589661 -0.04153121  0.07065862
+   0.07022397]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.02878113  0.03264479 -0.10937406  0.04827079  0.18794233  0.02464157
+   0.00959055]
+ [ 0.07337639 -0.04911106 -0.03489598  0.05854719  0.07417527  0.04720855
+   0.03849893]
+ [ 0.07708098 -0.05816295  0.0615279   0.00943089 -0.00341483  0.06791807
+  -0.00515165]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.05407296  0.10650398 -0.0281575   0.06304749  0.10365246  0.02055247
+  -0.03220597]
+ [-0.02963535 -0.02080337 -0.03816511  0.1232693   0.049946   -0.05601078
+   0.02381121]
+ [-0.03887507  0.07879971  0.00340902  0.03117456 -0.10913161  0.10157184
+  -0.06130395]], shape=(3, 7), dtype=float32)
+Test accuracy: 17.64%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.1431817   0.07808241 -0.01788976 -0.01073532 -0.0874338   0.11461963
+  -0.00794433]
+ [-0.06252791  0.05442264 -0.00866736 -0.08017384  0.05217518  0.06033335
+  -0.00153426]
+ [ 0.06049621  0.00252889 -0.06634646  0.08600398  0.02990262 -0.08527432
+   0.06784191]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.10659174 -0.30882353  0.17559311  0.05010607  0.06508377  0.10623606
+  -0.16814993]
+ [ 0.218553   -0.31012553  0.16714998  0.10260184 -0.07288168 -0.02171446
+  -0.1707749 ]
+ [-0.03125561 -0.05211499 -0.01089642  0.03623593 -0.03985769  0.02321798
+   0.1080361 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.0904926  -0.05132877  0.01366124 -0.10311886 -0.01935984  0.16603851
+  -0.07167937]
+ [ 0.00700342  0.03340478 -0.1123206  -0.08266904 -0.02040498 -0.03994857
+   0.06010871]
+ [ 0.03150411  0.00384368  0.07665731 -0.07804337 -0.09200107 -0.05718973
+  -0.01581986]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06048051 -0.00647517  0.00613665  0.17061234  0.03985119  0.07024305
+   0.04725583]
+ [-0.02628814 -0.02210245  0.09736741  0.09459742  0.06176169 -0.01339501
+  -0.00045246]
+ [ 0.09923574 -0.10380568  0.08398111  0.02950982 -0.11368366  0.08824442
+  -0.06079587]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.1%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 3.9613806e-03  7.5910643e-02  2.7326757e-02  8.3792515e-02
+  -1.2755793e-01 -7.1632773e-02 -9.1833562e-02]
+ [ 1.5313555e-02  4.9181357e-02  1.0603776e-01 -3.7656911e-03
+   1.7709561e-02 -9.5854513e-05  2.0062622e-02]
+ [-9.2593357e-03 -2.4103183e-02 -9.5856652e-02 -8.7777331e-02
+  -3.1137008e-02  4.7973253e-02 -7.2355077e-02]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.04813831 -0.01467255  0.01230348  0.03770894 -0.00855319  0.08459216
+   0.00023243]
+ [ 0.03537499 -0.05577641 -0.02766226 -0.00525987 -0.08508784 -0.121581
+   0.02230847]
+ [ 0.08479663  0.0497952  -0.0361907   0.01387031 -0.09347377  0.09395637
+  -0.00216069]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.06649091  0.05774029  0.1767499   0.1190863   0.0849272   0.0650933
+   0.13668984]
+ [ 0.01712187  0.03636651  0.12379619  0.12603602 -0.01601287  0.0553639
+   0.01689056]
+ [ 0.00057869 -0.08128951  0.01967492  0.06894481  0.14581878  0.06033535
+  -0.0821124 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.03968405  0.0785142  -0.00476561  0.07108709  0.0267865  -0.06596342
+   0.06533069]
+ [ 0.14581604  0.00402378  0.08169802 -0.02984219  0.01919174 -0.08084695
+   0.04861656]
+ [ 0.03204975 -0.07714596  0.00082299  0.04341422  0.04932626 -0.05741718
+   0.04259731]], shape=(3, 7), dtype=float32)
+Test accuracy: 18.2%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.02205207  0.05307423  0.04861453  0.02716727  0.03874171 -0.01104841
+   0.03665362]
+ [-0.04173927  0.11356886 -0.0116953   0.084425   -0.03659019  0.02370981
+  -0.02548841]
+ [-0.04019548 -0.02321359  0.13027602  0.01454755  0.02759537  0.0572299
+  -0.10358322]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.16936286 -0.03002424 -0.06267067  0.05578395  0.1623913   0.0385377
+  -0.04170234]
+ [-0.09756504 -0.04234865 -0.08998905  0.02459077  0.13626683  0.12413013
+  -0.02451841]
+ [-0.07482336  0.01530916  0.03030943  0.18877324  0.12911195  0.11754914
+   0.00322319]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.09157659 -0.13744724  0.11263602 -0.08398245 -0.08822585  0.02054514
+  -0.01549009]
+ [ 0.07647569 -0.20206043  0.16841176 -0.07136352 -0.07615382  0.07456391
+   0.04492896]
+ [ 0.05718539 -0.04350807 -0.03414354 -0.04548733 -0.08666945 -0.0404155
+  -0.04959214]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.0267901   0.08543392 -0.03715045 -0.08551666 -0.04294638  0.06150254
+   0.09573747]
+ [-0.38409925 -0.1943627   0.07808875  0.42304337 -0.02898004 -0.07187374
+  -0.12857036]
+ [-0.09692641 -0.0310858  -0.10207491 -0.08549149 -0.00069815  0.17336802
+  -0.11945505]], shape=(3, 7), dtype=float32)
+Test accuracy: 21.96%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.02866691 -0.10316138 -0.08053811 -0.09537789 -0.00812722 -0.09193937
+  -0.14479549]
+ [ 0.01194291  0.0665714  -0.0960862   0.10629079  0.03900373 -0.06271204
+   0.06115771]
+ [ 0.00149194  0.04265968  0.16294028  0.03962432 -0.05325879 -0.03622302
+   0.0332593 ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.02425449 -0.02835849  0.06843977 -0.09867942  0.08332067 -0.1284617
+   0.01956168]
+ [-0.09196454  0.02214861 -0.05972708  0.02845209  0.09513646  0.03163463
+   0.07937644]
+ [-0.01649592 -0.11628193  0.01906108  0.04252222  0.09066142 -0.03439422
+   0.08705486]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.04156065  0.12245798  0.02513147 -0.07353241 -0.05076382  0.0204216
+   0.00318734]
+ [-0.04392296 -0.14390509  0.02614569  0.1228609   0.06354551 -0.04240267
+   0.05995709]
+ [ 0.04817474  0.08887234  0.04577721  0.16844343 -0.00555995 -0.03188776
+   0.04455843]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.0608533   0.02103584 -0.12665951  0.01595908  0.09800077  0.1359872
+  -0.2223416 ]
+ [ 0.01835258  0.08553876 -0.13005753 -0.03222694  0.15323435  0.09528876
+  -0.161924  ]
+ [-0.02608181  0.00487714 -0.03988809  0.05307915  0.01957946 -0.00933606
+   0.07230665]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.53%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.03410009  0.15151304 -0.07808989  0.08572461 -0.21562603  0.01638167
+   0.07760494]
+ [-0.05632261  0.03363807  0.03441951  0.01502816 -0.0858926  -0.05484681
+   0.00440718]
+ [-0.03682892  0.04387154 -0.03390269 -0.05395918 -0.18523632 -0.05954789
+   0.08479286]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.09041776  0.03365512  0.01474759  0.04921401  0.1445715  -0.01394457
+   0.02024144]
+ [-0.05332726 -0.16687125 -0.03226312 -0.08095405 -0.0961804   0.00906081
+  -0.0022098 ]
+ [ 0.14167666 -0.10331715 -0.01441751  0.12292515  0.09575279 -0.16697936
+   0.00848467]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.00671607  0.0061166  -0.03032396 -0.03653089  0.15603691 -0.04272611
+  -0.07532523]
+ [-0.08794873 -0.03102864 -0.03873173 -0.11008549 -0.01556223  0.02147646
+  -0.0200072 ]
+ [-0.03119646  0.03382587 -0.11823724  0.03128359 -0.02072047 -0.08338515
+  -0.09373672]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.06050248  0.03913816  0.04677464  0.01303936 -0.20740205 -0.14370278
+  -0.06151644]
+ [ 0.0358949  -0.12806992  0.00457078  0.08679751 -0.10253508 -0.01800773
+   0.01304255]
+ [ 0.08180366  0.00634927 -0.0711214  -0.03337426 -0.01269067  0.01800036
+  -0.07185597]], shape=(3, 7), dtype=float32)
+Test accuracy: 24.87%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.00494855  0.1226015  -0.04651537  0.01243118 -0.09137809 -0.02116684
+  -0.04318923]
+ [-0.01414899  0.09323936  0.00602841  0.00763225 -0.06320169 -0.02336145
+  -0.06292404]
+ [-0.04631482 -0.02276999  0.1160036  -0.0107729   0.09558073 -0.05555136
+  -0.10688127]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.09142803  0.03191192  0.00798241  0.03243269 -0.00523375  0.00220531
+  -0.03688135]
+ [-0.16635911 -0.09547315 -0.06953395 -0.19891977 -0.03140736 -0.07463887
+   0.02264434]
+ [-0.17295921 -0.09142629 -0.00267769 -0.00280984 -0.04203378  0.1468504
+   0.02368148]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.03206286  0.14135346  0.01154633 -0.06123496 -0.08581579 -0.00914339
+  -0.0149185 ]
+ [-0.0081994   0.05707616 -0.06190825 -0.06016213 -0.03775265 -0.06766301
+   0.07132901]
+ [-0.08442368  0.1140132   0.02143711 -0.04213662 -0.16578184  0.0311977
+  -0.01952424]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.08797425  0.1074404  -0.1157795  -0.2196877   0.16782153  0.09419431
+  -0.15807638]
+ [ 0.01202942  0.02876352  0.07677168  0.05513295  0.01892239 -0.07825311
+   0.10986602]
+ [-0.1030581  -0.02991082 -0.06714662 -0.00602949 -0.01845293  0.00023043
+  -0.05686131]], shape=(3, 7), dtype=float32)
+Test accuracy: 26.59%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.00267673 -0.1622058   0.05385364 -0.07886709 -0.16892621 -0.04485206
+   0.10950261]
+ [ 0.1144175  -0.05946542  0.15383746 -0.01792391 -0.1473254   0.11511919
+   0.12249063]
+ [-0.12137944 -0.06807221 -0.14145194  0.01739309 -0.01481247  0.25236338
+   0.26236334]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.16455576 -0.02130078 -0.04761627  0.03974273 -0.01500978 -0.02677287
+   0.06065365]
+ [-0.08764037 -0.13285235  0.07215902 -0.05939914  0.03769102  0.00758559
+  -0.04010584]
+ [-0.07278838  0.00222098 -0.03834572 -0.01684301  0.04325298  0.0567303
+  -0.01888242]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.0413841  -0.01019041 -0.00732515  0.13563439 -0.01304272 -0.00699812
+   0.07241154]
+ [-0.03908363 -0.02204463 -0.06143824 -0.13199371 -0.1536962  -0.17270507
+   0.14262146]
+ [-0.01956891  0.00358178 -0.03565514 -0.01608987 -0.13056865 -0.00395064
+  -0.00753175]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.15553342 -0.06014689 -0.00241665 -0.07919029 -0.01234652  0.0778478
+   0.00431109]
+ [ 0.12727492 -0.03015265 -0.06282128 -0.1260516  -0.00058304 -0.03099691
+  -0.04613568]
+ [ 0.18599683 -0.01363965 -0.02411114 -0.0526544  -0.01078855  0.10886986
+  -0.0473588 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.8%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.07459023  0.02468004  0.02334665  0.13672757 -0.0195217  -0.06521244
+  -0.02172324]
+ [-0.00627114  0.03014453  0.00652236  0.05645097 -0.0566866  -0.01641921
+   0.07387415]
+ [ 0.07128484 -0.10843667  0.09076741  0.08583936  0.02268218 -0.09812065
+   0.06241048]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.09028971  0.08078468  0.0726661  -0.04237682  0.04726429  0.02958358
+   0.0335659 ]
+ [-0.08969477  0.15405434 -0.095927    0.0807438   0.07784519 -0.04273496
+   0.01178049]
+ [-0.01097294 -0.02021137 -0.03742902  0.08298469  0.03752832  0.15209006
+  -0.10876998]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.09192362 -0.0534728   0.04379037 -0.08609961 -0.10097514  0.01107683
+  -0.07153744]
+ [-0.09838886 -0.04045657 -0.05069922 -0.09688021 -0.04228214  0.08179368
+   0.109155  ]
+ [-0.10203947  0.05136371  0.08285319 -0.09273407  0.03067407 -0.01592203
+   0.08767789]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.13795911  0.03274421  0.04209805  0.03249754 -0.01742362 -0.07510195
+   0.09477927]
+ [-0.05176559 -0.06556976 -0.04032063  0.03767869 -0.06456889 -0.0642899
+   0.1179933 ]
+ [ 0.11000238  0.0798336  -0.07433864 -0.06754556 -0.03324818  0.12427442
+   0.03182815]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.57%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.14848433 -0.07894596 -0.01409338  0.11391097 -0.00421516  0.10156374
+  -0.19385189]
+ [-0.06193785  0.02334721  0.04133891  0.06504868 -0.20833105 -0.05355706
+   0.16343686]
+ [ 0.05004312 -0.10725062 -0.05192427  0.00701197  0.06543445 -0.0273486
+  -0.04850132]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.0530795   0.00923006  0.04974758 -0.0081043  -0.03029654  0.00309983
+   0.04943353]
+ [-0.04358843  0.05568408  0.05065385  0.12267163 -0.05964215  0.06899152
+   0.02577022]
+ [ 0.10944453 -0.04760478 -0.06776021 -0.03515092 -0.02115729  0.02322199
+  -0.01895037]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.06776109  0.05851533  0.05397131  0.07904407  0.21448857  0.13001096
+  -0.00067542]
+ [-0.05583706 -0.04526673 -0.01060667 -0.04407941 -0.05291506  0.09686945
+   0.01773096]
+ [ 0.04136676 -0.08546325  0.05843768  0.13336045 -0.02343333  0.09645722
+   0.02965217]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.00762854  0.13850567  0.03941337  0.1546691  -0.02669355 -0.21767183
+  -0.01841058]
+ [-0.13795242 -0.0435577  -0.0760486  -0.05687298  0.13276684  0.03649194
+   0.04250593]
+ [-0.01095412  0.13241799 -0.00096196  0.13196108  0.02013453 -0.10509034
+   0.07840239]], shape=(3, 7), dtype=float32)
+Test accuracy: 24.1%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.00153529  0.07201299  0.04612673 -0.07207811  0.04240135  0.01195443
+   0.128838  ]
+ [-0.08697211  0.05468284 -0.0040367  -0.0169654  -0.00870173 -0.0115768
+   0.13627425]
+ [ 0.08883232  0.08343732 -0.08496784  0.02729722  0.01442319 -0.01587337
+   0.07731565]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.0090855  -0.03838371 -0.01490403  0.05635359  0.02194759 -0.04483152
+  -0.02092869]
+ [-0.07194655 -0.08678479 -0.12123251  0.04313244 -0.08990607 -0.01570871
+  -0.03168428]
+ [ 0.08386578 -0.055393    0.02872845 -0.3252657  -0.10242756  0.03341668
+  -0.04127841]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.0430841   0.03007085  0.03936805  0.01505023 -0.07289979 -0.13843982
+  -0.0194905 ]
+ [-0.09700558  0.03177991 -0.02884299 -0.04607533 -0.09085818 -0.28728005
+   0.09083142]
+ [ 0.06306531  0.04270687  0.02314784  0.07415798  0.12148277 -0.07069682
+   0.19202256]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-1.67371407e-01  1.15887046e-01  1.30369335e-01 -1.28316000e-01
+  -2.53896937e-02  3.47242504e-02 -2.44580284e-01]
+ [-2.35609770e-01  1.85767189e-04 -7.21482635e-02 -1.79566368e-01
+   6.72439486e-03  8.71330500e-04 -9.59425420e-02]
+ [-1.83943976e-02  3.34113054e-02 -5.70739433e-02 -8.86238366e-02
+   1.60553791e-02  1.28420666e-02  1.16441205e-01]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.68%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.0005891   0.03458029  0.04203288  0.10207696  0.00752896 -0.0843602
+  -0.03259959]
+ [ 0.03305373 -0.06796724 -0.16914219 -0.16412416 -0.08053859  0.0236549
+   0.23429307]
+ [ 0.05343271  0.11247349 -0.12775336  0.00971057 -0.09776189 -0.02160287
+   0.11848275]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.04353473 -0.06180095 -0.08003734 -0.09917796 -0.01741814  0.00164069
+   0.01823058]
+ [ 0.0276366  -0.02314011 -0.0888091  -0.05905598 -0.03246348 -0.03509124
+   0.03649528]
+ [ 0.07267774  0.05247667  0.0741213  -0.14388697  0.12445635  0.0255918
+  -0.02670647]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01914901  0.00893188 -0.06680401 -0.14098625  0.00488866  0.03878199
+  -0.00139096]
+ [-0.04850098  0.14151594  0.07133451 -0.10686362 -0.01922892 -0.02304246
+   0.01990424]
+ [-0.03424568 -0.06540158  0.01658312  0.04452454  0.03220674 -0.00629075
+  -0.04283337]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.13283502  0.06481136  0.11884025  0.03843625  0.07812133  0.04092696
+  -0.06546577]
+ [-0.00247757  0.00069945 -0.10689377 -0.07559435  0.04878435  0.08978431
+  -0.02359208]
+ [-0.03099697  0.03029848 -0.07335076 -0.02295315 -0.0628109   0.11206919
+   0.10582468]], shape=(3, 7), dtype=float32)
+Test accuracy: 18.42%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.00534139 -0.03870871  0.02128922 -0.13216175  0.13933171 -0.16889837
+   0.05994136]
+ [ 0.10167272 -0.11072644  0.01460653 -0.05486066 -0.09867457  0.07101908
+  -0.12709904]
+ [-0.06650516 -0.02850018 -0.01247645  0.06911424 -0.0631692   0.11287767
+  -0.02273636]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.02540571  0.03127992  0.04360253 -0.0807187  -0.03254614  0.07619247
+   0.06686828]
+ [ 0.03296014  0.13304512  0.13061826 -0.17616934 -0.18141913  0.00088209
+  -0.00722867]
+ [-0.05164941 -0.0246887   0.01593992 -0.06158074  0.01441224 -0.07363987
+   0.0444651 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.04925779  0.02761021 -0.03514856 -0.06729206  0.07783022  0.03908416
+  -0.10807386]
+ [ 0.03817093  0.22071317 -0.0821815  -0.16709024  0.07351153 -0.12014434
+   0.08326972]
+ [-0.00845885  0.15933123 -0.00999437 -0.13968667 -0.01346996 -0.0983996
+   0.02165419]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.03562464  0.1607992  -0.06615501 -0.01192841  0.1677744   0.12263609
+   0.05658104]
+ [-0.08337513  0.06754712 -0.01467771 -0.02733335  0.19882852  0.06310896
+  -0.01191362]
+ [ 0.03658849  0.04054611 -0.00461679 -0.03155393 -0.13637434 -0.02433883
+   0.00877144]], shape=(3, 7), dtype=float32)
+Test accuracy: 25.14%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.09097365  0.00167977 -0.08655187 -0.01230112 -0.01226231  0.03449801
+   0.04627728]
+ [ 0.11088848  0.13586172  0.10244261  0.20532268 -0.05048737  0.00700417
+   0.1012523 ]
+ [-0.00173376 -0.10505366 -0.1840613  -0.12865886 -0.08719884  0.08394952
+   0.05548828]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.03734691 -0.10493123 -0.08452133  0.09951499  0.04431665  0.16917014
+  -0.09471876]
+ [-0.00170122 -0.02918027 -0.02150412  0.08222871  0.04638817  0.1052985
+  -0.11257459]
+ [ 0.02775691  0.03253512 -0.11871547  0.00081317  0.00539033  0.06968493
+  -0.07968786]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.00286319  0.02545845  0.03991319  0.06720899  0.07737763  0.00516916
+  -0.12339981]
+ [ 0.0523051  -0.03470593 -0.07382067  0.00863694  0.00163756 -0.06258177
+   0.04549811]
+ [ 0.06627999 -0.16933624 -0.05633686 -0.04816059 -0.05541567 -0.06682114
+  -0.01093265]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.10283154  0.02159736 -0.03451315  0.09194846 -0.04043228 -0.09489912
+   0.01617301]
+ [-0.07060716  0.03949248 -0.146581    0.04892991 -0.04489578  0.03571722
+   0.0894385 ]
+ [-0.05563626  0.09302394  0.03824982 -0.03543679  0.01313664  0.00486368
+   0.10312794]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.85%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.01958176 -0.03286622  0.0987677   0.14027904 -0.12276016  0.13582535
+  -0.12223972]
+ [-0.05383704 -0.13943474  0.05096243  0.06778033 -0.04272618  0.14201194
+   0.01693331]
+ [-0.09271623  0.22783226  0.0886718  -0.0053861  -0.20795256  0.2284461
+   0.08355783]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.12930757 -0.05632022 -0.06358258 -0.0118192  -0.0555004   0.00612221
+  -0.05734035]
+ [ 0.03011682  0.08176491 -0.05251328  0.14185649 -0.20574847 -0.02346263
+   0.14525764]
+ [ 0.08762867 -0.00238057  0.04902093  0.04193716  0.06391274  0.04671475
+   0.02755918]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.03700534 -0.05421364 -0.0879475  -0.0522556  -0.03277655 -0.02380868
+   0.02361637]
+ [-0.03232889 -0.09394322 -0.03489845  0.03973195  0.06404956 -0.01979631
+   0.06571329]
+ [ 0.03238735 -0.02264117  0.02117112  0.01837181 -0.02776634 -0.06817582
+   0.05380803]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.09751242  0.03801081  0.03957713  0.05485126  0.20029852 -0.0608919
+  -0.03577023]
+ [-0.07028184  0.08232941  0.0046544   0.03043961  0.09216817  0.04787206
+  -0.07045259]
+ [ 0.04858379 -0.15893197 -0.02105895  0.11571258  0.04930161 -0.07258329
+  -0.12510075]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.31%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.01826668  0.06307064  0.14680268 -0.04170606  0.04313964 -0.07127256
+   0.14232065]
+ [-0.14179939 -0.02042503  0.06658778  0.03137965  0.10237985 -0.16089323
+   0.13519764]
+ [ 0.10523362  0.1078576  -0.01138996  0.00824999 -0.05809753  0.11951402
+   0.02749228]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.08580753 -0.05813794  0.07866295 -0.03493625 -0.04163519  0.04903756
+  -0.0166779 ]
+ [ 0.01879461 -0.05445806  0.02900735 -0.00757761 -0.0825299  -0.00579895
+  -0.09629157]
+ [ 0.16399302 -0.07385814 -0.06493098  0.14855844 -0.0012483  -0.06388633
+  -0.0076217 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.05586935  0.02811527 -0.14069645 -0.00770643  0.02901761 -0.00114464
+   0.0187475 ]
+ [-0.11326151 -0.00135447  0.10820003  0.03484222 -0.02042387  0.03160741
+  -0.05778336]
+ [-0.01882333 -0.06004108  0.09856679 -0.01511731 -0.00958763  0.00932297
+  -0.08405709]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.08514048 -0.09524218 -0.01115531 -0.05336563  0.11370991  0.02892487
+   0.04598569]
+ [ 0.04011444  0.00749703 -0.00411996 -0.03126105  0.02261877  0.02646963
+  -0.09979964]
+ [-0.15318432 -0.11482391  0.03446295 -0.0346606  -0.01909921 -0.07646815
+   0.05317374]], shape=(3, 7), dtype=float32)
+Test accuracy: 24.0%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.05257351 -0.05300794 -0.10037795 -0.08836299 -0.1211438   0.08378107
+  -0.05907363]
+ [ 0.08249834 -0.00290468  0.03841067  0.02662621 -0.06522451  0.01305239
+   0.0281113 ]
+ [ 0.02958909  0.09842896 -0.00921159  0.02389021  0.09567484 -0.00622
+   0.14809805]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.0757219   0.00632349  0.02169751  0.13507415  0.09724663  0.11969177
+  -0.01026719]
+ [-0.08971196  0.07605901  0.02861257  0.04746641  0.10669608  0.09704585
+   0.03444135]
+ [ 0.0765385  -0.06330754  0.01791799 -0.13904019  0.08096063  0.04403376
+  -0.03030279]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.02902646  0.0278333   0.33603272 -0.10234015 -0.0107283   0.00722602
+  -0.0603156 ]
+ [ 0.08805311 -0.00537416 -0.10731614  0.04333834 -0.00806271  0.02757726
+   0.06018097]
+ [-0.05038933 -0.01038132  0.09845233 -0.04528188  0.02999712  0.05973146
+   0.01866302]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06305648 -0.07074185  0.02224869 -0.06113157 -0.13113375 -0.01541681
+  -0.00544529]
+ [ 0.16121757  0.03916903 -0.03677274  0.07488906 -0.01354749  0.0301856
+   0.02977975]
+ [ 0.11271212  0.09391528  0.15453316  0.03153703 -0.01655718  0.04401643
+  -0.03208207]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.47%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.00232171  0.07724442 -0.05545922 -0.05420848  0.06470785  0.07633097
+  -0.05387548]
+ [ 0.00644028  0.11725327 -0.05979398 -0.02007202 -0.10888388  0.08609413
+  -0.01753656]
+ [ 0.00410559  0.12934455  0.09944332  0.05588504 -0.14883493 -0.05782478
+  -0.05758819]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.01675946  0.04410465 -0.04360713 -0.04901844 -0.03797971  0.07516927
+  -0.00663716]
+ [-0.11698152 -0.1133295  -0.13561417  0.01784438 -0.08442646  0.04160928
+  -0.03691479]
+ [ 0.0237689  -0.12079274 -0.19935796 -0.02482225 -0.04207841 -0.1605023
+  -0.04818811]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.00331731 -0.08653002 -0.02677234 -0.07120824 -0.01247422 -0.03855957
+   0.05086399]
+ [ 0.03316192 -0.07549585 -0.03282687  0.05224646  0.0227506   0.01970906
+   0.04096957]
+ [-0.06594227  0.10710078  0.02415971  0.15010723  0.0605651   0.0282264
+  -0.0948889 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.01269781 -0.11408763 -0.04115429  0.07937544  0.16458847 -0.0437469
+   0.05344097]
+ [ 0.01195924 -0.07062153  0.05480366  0.05999139 -0.04152852  0.0370434
+  -0.03071142]
+ [ 0.04098009  0.08426468  0.11923968  0.06392296  0.05704459 -0.08418968
+   0.04223406]], shape=(3, 7), dtype=float32)
+Test accuracy: 13.4%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.01508204  0.05178861  0.11573742 -0.02061941  0.02183314 -0.0414801
+  -0.04568119]
+ [ 0.09393455  0.06526124 -0.05322381  0.0671345   0.03825795  0.03719161
+   0.06764482]
+ [ 0.033441    0.10846447  0.02263652 -0.13855132 -0.0752269  -0.07967006
+   0.00529423]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.07213884 -0.2545787  -0.24459559 -0.02548513  0.06361414  0.17671812
+   0.1612139 ]
+ [-0.08100784 -0.10818026 -0.11500923  0.08631936  0.06912167  0.03521911
+  -0.03165726]
+ [-0.13240883  0.08161908 -0.01186469  0.13272445 -0.03015197 -0.02387034
+  -0.03063016]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.08365904  0.08795801 -0.04194058  0.0506592   0.06035833 -0.0234118
+  -0.01051857]
+ [-0.06482828  0.02205471 -0.00129881 -0.01648047 -0.06186467 -0.1136653
+   0.06069399]
+ [ 0.10791444 -0.11678089 -0.02980749 -0.05526216  0.03012756  0.03948397
+  -0.06938674]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.01394705  0.03716883 -0.00749425  0.08865847 -0.01766746  0.0298874
+   0.02459497]
+ [-0.03121911 -0.02230406 -0.14228883  0.02143757  0.03360195 -0.04114501
+  -0.01356733]
+ [-0.15407783  0.03278408  0.07654737 -0.01645094 -0.07971062 -0.13678262
+   0.13076225]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.66%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.0618152  -0.12567665  0.11790077  0.10154165  0.04250432  0.02865988
+  -0.03640288]
+ [-0.09870715 -0.07571252  0.03499326 -0.03748196 -0.06608786  0.13124317
+  -0.12912232]
+ [-0.12528569  0.07719803 -0.09578511 -0.10659498 -0.09540518  0.14739895
+  -0.1518855 ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.02810315 -0.02406441  0.13278754  0.01614362 -0.00439633  0.14474094
+   0.12794259]
+ [-0.01547508  0.09577834 -0.16536196  0.1111763   0.01197591 -0.00506929
+   0.05264499]
+ [-0.00675794 -0.04907745  0.00714067  0.01793977  0.04470486 -0.06897079
+  -0.06044422]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.04322796  0.14106004 -0.05460403  0.17281333 -0.08811493  0.20737028
+   0.07760859]
+ [-0.05501879  0.15929863  0.0186685  -0.02773738  0.02466501 -0.09458745
+   0.04626682]
+ [ 0.07434857  0.08306931 -0.07738777 -0.01009667  0.08578613  0.2743345
+   0.01722374]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.04411818 -0.09493988  0.12807178  0.05860453 -0.09337062  0.20700055
+   0.04448868]
+ [-0.067283   -0.03509166  0.17133881  0.01511002 -0.04753125  0.16048245
+   0.04560666]
+ [-0.06266513 -0.16007704  0.13292024 -0.03526932 -0.08841547  0.09447886
+   0.09234542]], shape=(3, 7), dtype=float32)
+Test accuracy: 24.89%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03862201 -0.09529679  0.00964096 -0.01651679  0.0953992   0.12855157
+  -0.0814214 ]
+ [-0.1588485  -0.10495479 -0.00723001 -0.01962171  0.0401111   0.0341704
+  -0.05066145]
+ [ 0.04949214 -0.19774947 -0.1156635   0.07681887  0.15493326  0.19973104
+   0.04779854]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.00747645  0.01896724  0.09244461 -0.05981424 -0.08505417 -0.10223774
+   0.10085201]
+ [ 0.01739811 -0.02086513  0.04703169  0.09425425 -0.04015303 -0.02104268
+   0.06570674]
+ [ 0.06122062 -0.05961376 -0.01567995  0.03647055  0.05719501  0.06515235
+  -0.00575973]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.06444162 -0.12533814  0.11580814 -0.06696597  0.0933092  -0.04103878
+   0.13818093]
+ [ 0.04404847 -0.02893008  0.0321821  -0.0336537   0.05446249 -0.03515342
+   0.02080965]
+ [ 0.04144158  0.09552731 -0.03063373 -0.00295142 -0.03377975 -0.02866172
+  -0.09652396]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.00084475 -0.08929116  0.03453398 -0.20935516 -0.1520105   0.00592999
+   0.25433323]
+ [ 0.06528857 -0.1190922   0.05421464 -0.07749069 -0.10606734  0.02440543
+   0.12327079]
+ [-0.01824326 -0.05357751  0.02509893  0.04679244  0.00949464 -0.0514112
+  -0.00545959]], shape=(3, 7), dtype=float32)
+Test accuracy: 17.59%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.01623376  0.00321049  0.2555159   0.22019364  0.07722917  0.13258395
+   0.07382114]
+ [-0.04303318 -0.03804694  0.13686246  0.17751911  0.0183295   0.07418485
+   0.07985925]
+ [ 0.11465901 -0.1172993   0.04408389 -0.14536673  0.14566934 -0.12810127
+  -0.07099628]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.02036459 -0.06993657  0.06467167  0.01817295  0.04435699  0.04146758
+  -0.04618093]
+ [-0.04972463 -0.06695362  0.02605809  0.03033115  0.03437316  0.0319057
+   0.00888616]
+ [-0.04965445 -0.02526373  0.01367483 -0.009784    0.00162645 -0.02290918
+   0.02370595]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.00710889  0.07453779 -0.00078392  0.01965009 -0.21864872  0.01071043
+   0.00916888]
+ [ 0.0989726   0.23396096  0.1017908   0.01837846 -0.26831272 -0.1255725
+  -0.05139569]
+ [ 0.03120352 -0.00995935  0.06271567 -0.01780562 -0.00945325 -0.13301991
+  -0.02633849]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.09747066  0.0167178   0.10490829  0.0326767  -0.07285465  0.01963868
+   0.08586526]
+ [ 0.11587416 -0.00897434  0.09903433  0.04775104  0.02595092 -0.17604491
+   0.09808481]
+ [ 0.01398438  0.09086906  0.04692715  0.0635983  -0.11591273 -0.10271025
+  -0.0473806 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 16.84%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.00864651 -0.0211429   0.08429217  0.08236699 -0.00390298  0.06394889
+   0.02205266]
+ [ 0.04208004 -0.06934747  0.07192337  0.00291589  0.04682634 -0.05322215
+   0.00090305]
+ [ 0.01779702 -0.11711527 -0.04245375 -0.03353766 -0.03345703 -0.00845828
+  -0.0441849 ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.06966583  0.03516079 -0.04311305 -0.00604983  0.07431895 -0.10912113
+   0.01101656]
+ [-0.09049845  0.03118235  0.07803824  0.10833884 -0.08722221  0.16104248
+   0.10514667]
+ [ 0.04359585  0.08596053 -0.03919975  0.13842148 -0.09726277 -0.12429111
+   0.02584035]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.13667849  0.02728031 -0.05348668  0.13411427 -0.11487965  0.07998288
+  -0.02467183]
+ [ 0.0489713   0.08542117  0.07352524 -0.03262763 -0.00733404  0.02446928
+  -0.0609267 ]
+ [-0.00067643  0.05623917  0.04632085 -0.13344449  0.06907988 -0.03994246
+   0.10807518]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.0823184  -0.08676548  0.05782766 -0.08297445  0.09926762  0.11364768
+   0.05934581]
+ [-0.01451347  0.01877382  0.12555318  0.02660109 -0.05754609  0.0311219
+   0.03368305]
+ [ 0.11630792  0.30390063  0.1325682   0.11747221 -0.07576247 -0.06409919
+   0.08501111]], shape=(3, 7), dtype=float32)
+Test accuracy: 24.39%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.07526943 -0.04673653 -0.02452065  0.04140856  0.11017499  0.01848049
+  -0.00373655]
+ [ 0.03524343  0.04488522 -0.15608129 -0.07733297  0.03056115 -0.00967794
+   0.05102649]
+ [-0.07759263 -0.1142887  -0.0450075  -0.00937167  0.03966882 -0.14559686
+   0.02290408]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.00144469 -0.10967956  0.06126464  0.10265945 -0.02476444  0.14441606
+  -0.11191137]
+ [-0.07955475 -0.1162243   0.20789492  0.06166261  0.05249844 -0.0032538
+   0.02417976]
+ [-0.04103704 -0.10414672  0.14752676 -0.04556421 -0.03085642  0.02440692
+  -0.0275416 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.02417415 -0.07315169  0.01038823  0.07055263 -0.00792485  0.17486024
+  -0.0198552 ]
+ [ 0.00810451  0.04547611 -0.06443112 -0.04081345 -0.10065162 -0.03128693
+   0.04147156]
+ [ 0.13870038  0.06001881 -0.12681653  0.06014572 -0.10305935  0.02062626
+   0.0331045 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.05054269 -0.02954855 -0.02341905  0.02041101 -0.02765021 -0.00554063
+   0.06565712]
+ [-0.06473523  0.05245762 -0.0277805   0.04851312 -0.02412459  0.0450457
+   0.01355343]
+ [ 0.05478296  0.05353779 -0.16809931 -0.04056174 -0.10064415  0.13951284
+   0.05349176]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.72%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.00322785  0.05403375  0.06417485  0.02223035 -0.07579518  0.00736813
+  -0.18963926]
+ [-0.09750462  0.05353002  0.0887809   0.03081165 -0.05187859 -0.01012848
+  -0.10990448]
+ [ 0.0637802   0.09078269 -0.02615932 -0.04245862  0.04935564  0.06365364
+   0.02566007]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.08193249 -0.02672162 -0.07233248 -0.06118804 -0.03133494  0.0953958
+   0.02475968]
+ [ 0.05835151 -0.11773486  0.04735054 -0.1111021   0.08201676 -0.06084862
+   0.0359415 ]
+ [ 0.01501761  0.10134625 -0.07005734  0.12015368  0.03520039 -0.02183746
+   0.00220123]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.06627753  0.00203695 -0.01273573  0.01373465  0.02974473  0.02774386
+   0.06774788]
+ [ 0.09805574  0.00559071  0.02382347 -0.02913235 -0.03178972  0.03837297
+   0.05502207]
+ [ 0.20230593  0.09913249 -0.05046349  0.00082709  0.00681024  0.11657526
+   0.12917177]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.12764357 -0.08205451 -0.05925263 -0.0999059   0.02122475  0.05707155
+   0.06738044]
+ [-0.00429158 -0.09876746 -0.01091223 -0.03530138 -0.01982815 -0.06337471
+   0.08446173]
+ [ 0.01784529  0.08641808  0.08620065  0.05029833 -0.04997147  0.04055808
+   0.07679215]], shape=(3, 7), dtype=float32)
+Test accuracy: 29.85%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03646592 -0.01663244  0.02112319  0.03832722 -0.00959891 -0.04323994
+   0.03541731]
+ [-0.03807808  0.1024752   0.05776346  0.07476087 -0.11706573 -0.09092899
+  -0.06095735]
+ [-0.00562578 -0.09656486 -0.13286065  0.0589729   0.03888359  0.06200805
+   0.05789217]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.18730822  0.09617217 -0.08544442  0.00331706  0.02360458 -0.16036187
+   0.02575641]
+ [-0.11695527  0.15454763  0.09074897 -0.09830329  0.06231891  0.11333162
+  -0.00988742]
+ [-0.07296338  0.17491482 -0.03434963  0.04959091 -0.0134251  -0.04172232
+  -0.03839183]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.12469979 -0.11352121  0.16165736 -0.00910326  0.02489083 -0.11303887
+  -0.03220242]
+ [ 0.03731463 -0.0097362   0.00777579  0.09547557  0.07352637 -0.09582439
+   0.03282772]
+ [-0.04301088  0.11596581  0.0025343   0.07284065  0.00149599 -0.00198222
+  -0.12285709]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 2.35716738e-02 -1.18654117e-01 -1.41835529e-02 -1.77603871e-01
+  -1.08336255e-01 -2.22150758e-02 -6.58317804e-02]
+ [ 7.36086443e-03 -2.83002369e-02  2.15781648e-02 -4.15331125e-02
+   8.82108212e-02 -8.53431597e-03  7.60518909e-02]
+ [-1.02055259e-04 -1.03276670e-02  1.64873898e-04  1.38604045e-02
+  -1.00110039e-01 -9.37960371e-02 -1.21920034e-02]], shape=(3, 7), dtype=float32)
+Test accuracy: 28.41%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.07820051  0.10890933 -0.10217505 -0.08079015 -0.0490073   0.03466879
+  -0.08598717]
+ [-0.01673769  0.02236071  0.03376121 -0.01529198  0.08622153 -0.05780822
+  -0.01026381]
+ [ 0.05187731  0.12864089 -0.05734923  0.01664417  0.16623518 -0.06096627
+   0.01183023]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.08482786  0.02690193  0.0710293   0.04509928 -0.02362203 -0.12314495
+   0.037866  ]
+ [ 0.12712991  0.04968619 -0.02175279 -0.08694089  0.01042594  0.16677862
+  -0.0381286 ]
+ [ 0.18257442  0.20757726 -0.26411226 -0.05458153  0.02616602  0.07502639
+  -0.04794355]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.21936709  0.09829288  0.08543491 -0.08777614 -0.075748    0.05275914
+   0.10161351]
+ [-0.17821738  0.25002733  0.13123724  0.12507758  0.0822719   0.03120172
+  -0.06998774]
+ [-0.05221752 -0.03624634  0.05114704 -0.10781026 -0.09626821  0.00261339
+   0.09932274]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06752505 -0.10255527 -0.05840976 -0.01321948  0.04727572  0.02509378
+  -0.03189093]
+ [-0.05166952  0.04458751 -0.01048798  0.04739849 -0.05329535 -0.07389842
+  -0.04891519]
+ [-0.1275154  -0.15454726 -0.10567248 -0.00438748 -0.01488815 -0.02007855
+   0.00705603]], shape=(3, 7), dtype=float32)
+Test accuracy: 28.13%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-3.27767693e-02 -5.80089204e-02 -3.60278189e-02  7.23470151e-02
+   4.04226035e-02  4.43874709e-02 -4.10144124e-03]
+ [ 3.02261747e-02 -1.18322298e-02 -1.16883293e-01 -4.07241620e-02
+  -6.23344854e-02 -1.88730657e-04 -9.02971625e-02]
+ [-6.14666864e-02 -1.74163014e-01 -1.03639461e-01  1.25417426e-01
+  -3.92646343e-02 -2.32017651e-01 -1.17067784e-01]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 6.85745701e-02 -1.84441842e-02 -1.48389429e-01  3.87057252e-02
+   6.83167204e-02 -1.02792189e-01  7.60877877e-02]
+ [-1.64083131e-02 -1.91576779e-04 -3.25684017e-03 -5.62795177e-02
+  -2.14023031e-02  2.29886353e-01 -7.41245970e-02]
+ [-1.39767990e-01  3.45173702e-02  7.25934431e-02  1.37492083e-03
+  -9.42898467e-02  1.11025184e-01 -7.27283955e-03]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 9.6902773e-02 -1.0912048e-02  6.4224288e-02 -1.9764554e-02
+   1.0839258e-01 -2.1470346e-02  7.0014969e-05]
+ [ 9.9139437e-02  2.0841455e-01 -5.6239486e-02  1.6085909e-01
+   9.4408609e-02  9.8452754e-02 -1.8810463e-01]
+ [-5.1240232e-02  1.9001953e-02  3.5916090e-02  3.9202683e-02
+   7.0677772e-02  5.1231906e-03  3.6662485e-02]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.01489923 -0.08536255  0.01871238  0.0058555  -0.20984584  0.00973744
+  -0.12098062]
+ [ 0.04309364 -0.0284708   0.02069025 -0.01223188  0.00464491  0.04746976
+  -0.11094281]
+ [ 0.04835888 -0.01098589  0.03655907 -0.01530376 -0.0189159  -0.1108136
+   0.13152465]], shape=(3, 7), dtype=float32)
+Test accuracy: 26.63%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.05596626 -0.07557011 -0.04672896  0.0227851  -0.0154031   0.05135728
+  -0.0730587 ]
+ [-0.04784248  0.00083442 -0.01522017  0.00210172 -0.00786478  0.09157193
+  -0.00504166]
+ [-0.04791851  0.12123184 -0.00030142 -0.01676636 -0.05492948  0.02196426
+  -0.00568302]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.01044529 -0.14687574 -0.02388868  0.13128985  0.10175896  0.05451474
+   0.00919035]
+ [ 0.1406464   0.05131195  0.04495224 -0.07997677  0.0041793  -0.02212907
+   0.14113507]
+ [ 0.02560597 -0.08254753 -0.05072013 -0.00746184  0.04316653 -0.05099127
+   0.06530964]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.00786956  0.07327943  0.00351662  0.0191793  -0.05777595  0.13171336
+  -0.03162315]
+ [ 0.05380797  0.13337043 -0.03136984 -0.03939898 -0.18414529  0.05393393
+  -0.08434521]
+ [ 0.01478299 -0.19064777  0.17720859 -0.07475654 -0.10401513 -0.01411017
+   0.00067629]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.0086042   0.12214994  0.2359025  -0.11213049 -0.08133348 -0.00710714
+  -0.09818654]
+ [ 0.03139792  0.1530833   0.17999528 -0.10342982 -0.06420904 -0.15940818
+  -0.04774633]
+ [ 0.00398087 -0.07239398 -0.00335303 -0.03687536  0.04081845  0.01487847
+  -0.07335765]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.96%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.06802049  0.10463536 -0.08382799 -0.04045282 -0.2099964   0.0890253
+   0.1992254 ]
+ [-0.00652909  0.1488904   0.02118675  0.01179709 -0.008301    0.01609267
+   0.04511917]
+ [ 0.06498273  0.05255502  0.03886865 -0.17477305  0.02627944 -0.0322035
+  -0.00456864]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.08150435 -0.07605499 -0.01657822 -0.02952002  0.09360041 -0.15111996
+  -0.00242441]
+ [ 0.03515805  0.01494402 -0.01171439 -0.02024898  0.04546286  0.06041487
+  -0.04624562]
+ [ 0.05201587 -0.02875697  0.04027097  0.06340412 -0.14672399  0.11509558
+   0.0618651 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.05850988 -0.0242841  -0.06861882  0.07445418  0.02601914  0.02902647
+  -0.14015974]
+ [ 0.01337002  0.05057686  0.10021796 -0.01201362 -0.13515265  0.04902158
+  -0.17413318]
+ [-0.01056049  0.02819735  0.00970756  0.11982717  0.09284657  0.07386797
+   0.02734722]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.07964769 -0.10819289 -0.08943006  0.02695199 -0.10659917 -0.13395771
+   0.06523316]
+ [ 0.00061078 -0.13424477  0.2758402   0.02242378 -0.12430863  0.0464789
+   0.09047236]
+ [-0.05798148  0.00727558 -0.05174847  0.01296424  0.04230684 -0.00638098
+   0.01834579]], shape=(3, 7), dtype=float32)
+Test accuracy: 26.32%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.0349856  -0.07514946 -0.05565061 -0.03452152 -0.06438103 -0.04819302
+  -0.14841352]
+ [-0.10401006  0.0312876   0.01538226  0.00343901  0.05340006  0.02106423
+   0.01259434]
+ [ 0.11651745  0.04991507 -0.17382164  0.02269411 -0.06827883  0.05090087
+  -0.06423246]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.10023294  0.18821388 -0.10587782  0.03710587 -0.01940695 -0.00915489
+   0.05191124]
+ [ 0.07193192  0.00056055  0.05143655  0.01933837 -0.09049553  0.02055325
+   0.15817879]
+ [-0.07079611 -0.12881489  0.04155522 -0.05187693  0.08319352 -0.08061839
+  -0.07369179]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.10585012  0.00669237 -0.03099799 -0.01244278 -0.19566175  0.02473776
+  -0.1785467 ]
+ [ 0.02329266 -0.01119733  0.02924107  0.09476618 -0.06075182  0.02318421
+  -0.00730265]
+ [ 0.02655227  0.06469522 -0.05683763  0.01053521  0.07324075  0.0414861
+  -0.05235391]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.14227487  0.00956671  0.10533645  0.12329372  0.02109992 -0.02086775
+   0.02494485]
+ [ 0.10146676 -0.0051424  -0.21531087  0.08688581  0.05048005 -0.13989079
+   0.13668758]
+ [ 0.09578243 -0.00941901  0.03731684  0.09596528 -0.03043526  0.01866224
+  -0.03370874]], shape=(3, 7), dtype=float32)
+Test accuracy: 28.04%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.04483316 -0.21567613  0.09576581  0.01918872  0.12655807  0.04997994
+   0.10349473]
+ [ 0.06980868  0.13873897  0.1308854  -0.03584309  0.00025834 -0.06293929
+  -0.06605643]
+ [ 0.05891474 -0.04219538 -0.00301608 -0.0953277  -0.07784697 -0.09622172
+  -0.0574282 ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.02291726  0.12012764 -0.0043572   0.01504549 -0.08162082 -0.1229535
+   0.02000454]
+ [-0.07054724  0.10485435 -0.00090882 -0.00785494 -0.05465327 -0.12603077
+  -0.00099741]
+ [-0.05766148  0.12450921 -0.040219    0.02686048  0.03848292 -0.0664628
+  -0.00422696]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.03566459 -0.09367637  0.01268377  0.00750192 -0.12733427  0.00127276
+   0.05349503]
+ [-0.00572543 -0.10118205  0.01127712 -0.05280313 -0.14049122  0.00757863
+   0.02417937]
+ [ 0.04382043 -0.00478007  0.02883542 -0.05032951 -0.01566826 -0.09203351
+  -0.01602927]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.03860703 -0.01804005 -0.03117133 -0.01605836 -0.00506662  0.01220122
+  -0.01377108]
+ [-0.0421786   0.12804513  0.09794949  0.0833646   0.00913591 -0.08932471
+   0.09145872]
+ [-0.11689014  0.01789468  0.09042114 -0.06984384  0.05300865 -0.11890727
+   0.00874913]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.2%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.06933957  0.1974007  -0.1548042  -0.03020508  0.03333691  0.05042316
+   0.16044845]
+ [ 0.09646723  0.11936648 -0.11023729 -0.00709395  0.08134605 -0.10149258
+   0.04602773]
+ [ 0.03636149  0.17500478 -0.12255566 -0.117066    0.09825113  0.06799178
+   0.16481498]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.05223457  0.05987765  0.19749197  0.11639455 -0.05423591  0.10233372
+   0.13101813]
+ [ 0.02171609 -0.03520756 -0.1047017   0.01017262  0.10709535  0.07889271
+   0.047499  ]
+ [ 0.05625636  0.04857386  0.1477021   0.17307045 -0.08166414 -0.14120783
+   0.09100624]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.05543238 -0.19833642 -0.00135553 -0.07183176 -0.06635047  0.0275888
+  -0.01971951]
+ [ 0.01553295 -0.16351652  0.03434929 -0.02489089  0.055802   -0.09192035
+   0.05553599]
+ [ 0.00639148  0.08126979 -0.00911178  0.07484644 -0.05273436 -0.03727654
+   0.00697954]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.04487202 -0.08902009  0.02449048  0.01533215 -0.11514923 -0.06204532
+   0.0558136 ]
+ [ 0.0282777   0.03184045  0.05484375  0.16146138  0.1179129  -0.13179284
+   0.02493343]
+ [-0.15115938 -0.08033073 -0.0200207  -0.00809672  0.02716099 -0.04325207
+   0.00796614]], shape=(3, 7), dtype=float32)
+Test accuracy: 21.05%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03276806 -0.08695826  0.00969281 -0.04808864  0.05662452  0.04502692
+  -0.17689784]
+ [ 0.05866597  0.01003425  0.02398339 -0.09447488 -0.10409067 -0.02017333
+  -0.13055538]
+ [ 0.09495575  0.05970452 -0.00439037  0.07092017 -0.13646957  0.01718642
+  -0.06072079]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.08646891 -0.05382192  0.01057509  0.04760557 -0.11043797  0.02763289
+  -0.09237313]
+ [-0.13189898 -0.04571256 -0.08461036  0.00776879 -0.07141807 -0.20983592
+   0.08495024]
+ [ 0.07983379  0.06943813 -0.04468744 -0.04330719 -0.00879328  0.11079083
+   0.07493211]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.00244264 -0.08779602  0.08076111 -0.09478761  0.06424442  0.04396456
+   0.1598834 ]
+ [ 0.00787116 -0.05564785  0.08218163 -0.01787821  0.09677055 -0.02312902
+   0.0916376 ]
+ [ 0.00433749  0.11640604 -0.05686903  0.05173083  0.02842035 -0.11324125
+  -0.01931861]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.0509273   0.01165444 -0.06534787  0.03048139  0.04242934  0.0939171
+  -0.0444267 ]
+ [ 0.11271363 -0.06218737 -0.10663375  0.08233434 -0.06474731 -0.01443918
+   0.04779639]
+ [ 0.1016571  -0.06605498 -0.10921012  0.02352782 -0.10432292  0.11695935
+   0.10466831]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.87%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.0236944  -0.06076107 -0.00078473  0.0194017  -0.00391517  0.13650817
+   0.1447545 ]
+ [-0.05317226  0.04428128  0.04817766 -0.18867698  0.06111153  0.06681874
+  -0.06089789]
+ [-0.04898695  0.08343579  0.02562132  0.07510674 -0.10310322  0.14924029
+   0.04325404]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.08933434 -0.01362742  0.02516171  0.07527559  0.05673985 -0.24008769
+   0.10084353]
+ [-0.11824785 -0.08993215 -0.05160745 -0.22994076  0.01688069  0.10401964
+  -0.22028387]
+ [-0.10772006 -0.0189266   0.01268204 -0.09390331 -0.07718172  0.20787284
+  -0.09211528]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.10738558 -0.06096362 -0.03005168 -0.00642983 -0.02984246 -0.0038534
+   0.02936868]
+ [-0.08292761 -0.03235105 -0.07995109 -0.04285796 -0.0411364  -0.06135291
+  -0.20495701]
+ [-0.02327904  0.02391737 -0.09021917 -0.17212541  0.10384499  0.05778394
+   0.07617626]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.1494995  -0.01617616  0.11664551  0.05624769 -0.18475136  0.02769813
+  -0.02408677]
+ [-0.14803559 -0.01038172  0.05696676  0.07281317 -0.18483242  0.07100499
+  -0.06387001]
+ [-0.13339017 -0.05997164 -0.05167446 -0.03296065 -0.04509989 -0.00135618
+   0.07161106]], shape=(3, 7), dtype=float32)
+Test accuracy: 16.84%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.05778079 -0.19378507 -0.02998821 -0.00283197  0.04247928  0.16189288
+  -0.25548494]
+ [-0.04717652  0.0267678   0.02309402  0.02532142 -0.05029333  0.02145004
+   0.16424546]
+ [-0.07456346  0.1068821  -0.00546023  0.02946066  0.07739769  0.03618365
+  -0.00098396]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.15617058 -0.14073212 -0.02709319 -0.06362066  0.08939352 -0.14396599
+  -0.05118322]
+ [ 0.24275681 -0.24140072  0.04251887 -0.01444527  0.18185215 -0.16493268
+   0.17902428]
+ [-0.06433911  0.10169354  0.08697631  0.07424687 -0.20865467  0.02296451
+  -0.0644041 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.0399975   0.03506356 -0.09694222 -0.00747519 -0.13464606  0.14479941
+   0.06859639]
+ [ 0.0594843  -0.03201231 -0.13794264 -0.07699436 -0.1091983   0.0341247
+   0.17528605]
+ [-0.03679078  0.08239435 -0.08001387  0.04202501 -0.18457094  0.09748951
+   0.01058304]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 1.2821332e-04 -5.7442084e-02  2.2113435e-03 -7.4604228e-03
+   5.3544417e-03 -2.0824367e-02  2.4670925e-02]
+ [ 2.3448460e-01  5.6393603e-03 -1.0891980e-01 -5.9017666e-02
+   2.6928820e-03 -3.5274040e-02 -3.7632175e-02]
+ [-1.3409529e-02 -1.2570385e-02 -5.3170193e-03  1.2177626e-02
+  -1.0624768e-01 -2.2148687e-02  6.8001963e-02]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.51%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.02346958 -0.04575767 -0.01320531  0.06402383 -0.05796806  0.04225395
+   0.01287818]
+ [-0.04883163 -0.0639255  -0.14262179 -0.08341548  0.01378058  0.00404948
+   0.09612922]
+ [-0.05147688 -0.00371794 -0.10940109 -0.10229386  0.08271419 -0.0499337
+   0.00853438]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.04337588 -0.09220912  0.06723551 -0.15951464  0.0163741   0.10044641
+  -0.07494909]
+ [ 0.01301908  0.03995983  0.0202667   0.00705696 -0.09195828  0.09744394
+   0.02806239]
+ [-0.01469171  0.2243086  -0.04750887  0.13648516 -0.11304942  0.09271236
+   0.02937983]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.13673736  0.00223198  0.03662911  0.03241982  0.08208695 -0.07473995
+  -0.00980201]
+ [-0.0332436  -0.07873859 -0.01834758 -0.04034189 -0.03051092 -0.16011128
+   0.16524053]
+ [-0.04284704  0.09301193  0.00488699  0.17338625  0.06247181 -0.06936097
+   0.09177422]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.01828727 -0.02249057  0.0107666  -0.00682369 -0.02739081  0.00351215
+   0.01813346]
+ [ 0.02870123 -0.02565979  0.04103423 -0.0661809  -0.08141594 -0.15428057
+   0.08215581]
+ [-0.03309193 -0.00647501 -0.00168895  0.0924955   0.01875687  0.0223837
+  -0.03529764]], shape=(3, 7), dtype=float32)
+Test accuracy: 25.89%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.01887698 -0.05603803 -0.03892124  0.09196353  0.09706639 -0.09554974
+   0.00917079]
+ [ 0.01824848 -0.09011531 -0.02578244 -0.03167377 -0.057286   -0.03918114
+   0.0798545 ]
+ [-0.10952596  0.04911534  0.0225267  -0.09153719 -0.12974295 -0.03831493
+   0.04359479]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.01304981 -0.00417069  0.09546998 -0.04572208 -0.01333488  0.09270739
+   0.07784474]
+ [ 0.05809427 -0.11889904  0.01428603 -0.19504522  0.04689408  0.06463648
+   0.01959914]
+ [ 0.03554215 -0.01026422 -0.07598871 -0.05438643 -0.0313448  -0.14654039
+  -0.11439408]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.10381128  0.02794146 -0.05747727 -0.02469857  0.06003824 -0.05157221
+  -0.06620055]
+ [ 0.11460924  0.02978864  0.08702358 -0.10611857  0.02069031  0.03849688
+  -0.19488284]
+ [ 0.02299988  0.03769761  0.08214438 -0.07442062 -0.01292965 -0.00688659
+  -0.07462294]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.00497957  0.01813959  0.00147525  0.10327037  0.02703431  0.03736545
+   0.06894685]
+ [-0.05319876  0.06462376  0.04763746 -0.02939433 -0.00357441 -0.04072432
+   0.12476029]
+ [-0.01973492  0.02599839  0.05042556 -0.00520384 -0.0327971  -0.06577143
+   0.05242628]], shape=(3, 7), dtype=float32)
+Test accuracy: 17.88%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.02133762 -0.03180047 -0.12310699 -0.00692163  0.04248955  0.01408802
+  -0.09864712]
+ [ 0.03546975 -0.00515793 -0.08920551  0.02699319 -0.0611558   0.04682663
+  -0.07610277]
+ [ 0.03678919  0.02818204 -0.0308179   0.00473304  0.04207221 -0.00801246
+  -0.02639356]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.0671342   0.05105793 -0.04090009  0.02668763  0.00263819  0.11126307
+  -0.05432981]
+ [ 0.06043144  0.06971283  0.0453933   0.02128502  0.08654184  0.04460999
+  -0.026374  ]
+ [-0.02439849  0.02210768  0.03622166 -0.0052249  -0.03518527 -0.10225691
+  -0.02093161]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.04375297 -0.06963425  0.07326325 -0.0301722  -0.00651536  0.09736724
+  -0.1760473 ]
+ [-0.14165683 -0.07498057 -0.07498264  0.1649391  -0.07334418  0.07553747
+   0.02738274]
+ [-0.15056778 -0.00212461 -0.03998941  0.21177769 -0.01647358 -0.04463744
+   0.07496992]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.05265734 -0.14156383  0.07082865 -0.0714524   0.07163738  0.2127651
+  -0.1300482 ]
+ [-0.15261169 -0.13310339  0.00834875  0.05377044  0.04726056  0.04882741
+  -0.16470075]
+ [-0.09817992 -0.06970809  0.12252903 -0.08090177 -0.10144385  0.05323861
+   0.04314323]], shape=(3, 7), dtype=float32)
+Test accuracy: 25.09%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.0488853  -0.03217492  0.06943738  0.07265517 -0.11531964 -0.04318916
+  -0.06762419]
+ [-0.0737842   0.09071644 -0.01956026  0.05371663 -0.23437595 -0.09381768
+  -0.07995108]
+ [-0.01968485  0.07940546 -0.05875082 -0.03128291 -0.08884323 -0.0423416
+   0.04497936]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.1474556   0.13335377 -0.00686844  0.13439849 -0.25734627  0.06932898
+   0.08158998]
+ [-0.08309537  0.04634006 -0.03844714  0.1188146  -0.03130728  0.03831273
+  -0.04213111]
+ [ 0.48372632 -0.19091263  0.20933524 -0.20885274  0.09522086 -0.22072099
+   0.07638123]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.00626256  0.03853583  0.01843492 -0.11072992  0.13063917 -0.04089645
+   0.05880684]
+ [-0.12161804  0.01740547  0.05720038 -0.00469705  0.05857446  0.01921646
+  -0.00379735]
+ [-0.07398129  0.10900573  0.07198681 -0.02295585  0.02447575 -0.01042743
+  -0.22939736]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.03859241  0.11950713  0.05836429 -0.07361928 -0.06586716  0.13183373
+  -0.03807658]
+ [-0.07386861  0.09048263 -0.00180493 -0.08565438 -0.09705022  0.05305009
+   0.01959495]
+ [-0.03374382  0.07669265 -0.06602319 -0.06600402 -0.14204651 -0.04939447
+   0.07574091]], shape=(3, 7), dtype=float32)
+Test accuracy: 17.75%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.04578747 -0.02776745  0.0581437  -0.07942626  0.01878733  0.02816727
+  -0.0130573 ]
+ [ 0.02532993  0.05435212 -0.04087446  0.09280372 -0.02520835 -0.04444207
+  -0.00782579]
+ [ 0.2548053   0.07197914  0.0220476  -0.04329287  0.158983   -0.1358115
+   0.17897598]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.07342848 -0.02720165  0.05677417 -0.06763895  0.06854618 -0.09021991
+   0.10529907]
+ [ 0.22053005  0.0896793   0.03459914 -0.07044072 -0.04399171  0.08030514
+  -0.06376252]
+ [ 0.01628449  0.11245123  0.041102   -0.05452508 -0.03996971 -0.05594553
+   0.04192135]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01648424 -0.00845316  0.09348126 -0.03121797  0.02216572 -0.02317234
+   0.10445419]
+ [-0.00429955  0.02692309  0.07616147 -0.02473863 -0.03007436 -0.01430275
+   0.02902609]
+ [ 0.01711044  0.02865184 -0.1110406  -0.03207078 -0.09892701  0.00337689
+  -0.07808579]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.00863732  0.10894029  0.02975542 -0.09647743  0.10600062 -0.00950961
+   0.12854904]
+ [ 0.03329066 -0.05641899  0.08840769 -0.00890986  0.09399505 -0.16730812
+   0.07806031]
+ [ 0.02977617  0.22728875 -0.1689991  -0.02013665  0.08983381 -0.04257033
+   0.21577317]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.8%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.10548686  0.0553754   0.04278219  0.02251488 -0.02827646 -0.09510171
+  -0.09437986]
+ [-0.02030667 -0.0798276   0.00907839  0.02929903 -0.08694294 -0.04651319
+   0.10124366]
+ [ 0.1579206   0.13190113  0.09464866  0.0665865  -0.00804609  0.11176366
+  -0.14882728]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.09564583  0.03267003  0.02221637  0.0802183  -0.0250398   0.04142517
+   0.10435513]
+ [-0.11735676 -0.08016314 -0.01343809 -0.19201142 -0.014976    0.02417416
+  -0.06230487]
+ [ 0.12104651  0.09396783  0.09968998  0.15716225 -0.03841549  0.03614917
+  -0.06318329]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.05160532 -0.0579701  -0.11462706  0.10152115 -0.05768932 -0.20800473
+   0.09207041]
+ [-0.05272947  0.02946484  0.02847824  0.07698649  0.04002587 -0.13431351
+   0.08143553]
+ [-0.0149883   0.02290938  0.00122921  0.00727654  0.00309809  0.02459063
+   0.03259488]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.02132593  0.05601245 -0.03259303  0.05894451 -0.0628148  -0.13528253
+  -0.15245037]
+ [-0.15569825  0.13294405 -0.02336161  0.12021244 -0.00885709 -0.03889488
+  -0.0353763 ]
+ [ 0.10511883 -0.3197344   0.19838083 -0.01847344  0.01045334 -0.02385815
+   0.05759306]], shape=(3, 7), dtype=float32)
+Test accuracy: 19.35%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.14589946 -0.07859939 -0.10401923 -0.04260219  0.04009749 -0.15009868
+   0.03103571]
+ [ 0.04202821 -0.08222078  0.03320577  0.01278366  0.06120161 -0.16364239
+  -0.02546446]
+ [-0.07302432  0.03655638 -0.02964614  0.03899191 -0.08044379 -0.04558421
+  -0.09066366]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.02211824  0.01287916  0.10651283 -0.06711292  0.01705723 -0.03007928
+   0.05620543]
+ [-0.01887961  0.0586898  -0.09320749  0.03037442 -0.17573383 -0.01887853
+   0.01588348]
+ [-0.02411245 -0.11574865  0.07689144  0.05200405  0.10790484 -0.06184801
+   0.04122439]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.05792361  0.02729829  0.03789713 -0.02268876 -0.0059233  -0.00958558
+  -0.02652479]
+ [-0.04023612 -0.03265008 -0.02820058 -0.08856057  0.01280091  0.04782468
+  -0.04060648]
+ [ 0.28365582 -0.1984719   0.12111701  0.06259345  0.01083433  0.01807377
+   0.05544863]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.04167745  0.0566344   0.01037211 -0.00368781  0.02798813 -0.09055361
+   0.07064484]
+ [ 0.00585583  0.02985249 -0.00883483 -0.0350609   0.08426082 -0.1330831
+   0.04578745]
+ [-0.02003754  0.00643322 -0.05417303 -0.05106582 -0.08882274  0.2644471
+   0.06142529]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.51%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.01876684 -0.01813977 -0.06963867 -0.01299447  0.02248541 -0.00782135
+  -0.00914133]
+ [-0.00348137  0.07371967 -0.04558938 -0.0167155  -0.0112653   0.03434221
+  -0.00835183]
+ [-0.15689483 -0.12252291 -0.12189253 -0.06598589 -0.0141912  -0.33981302
+  -0.02317126]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.00511783 -0.01168541 -0.03335557 -0.11180824  0.02819083 -0.00389168
+  -0.06846711]
+ [-0.07103666 -0.0095961  -0.07210051  0.19162896 -0.06308532 -0.06724385
+   0.01965756]
+ [-0.01739237  0.11533564 -0.02364929 -0.15141961  0.02816501  0.24884072
+  -0.03923861]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.01559373 -0.18006751  0.04226923 -0.03165087 -0.07590272  0.17564341
+  -0.06744196]
+ [-0.13619418 -0.14252073  0.12641832  0.08498961  0.07759312  0.01583346
+  -0.05867031]
+ [-0.00062192 -0.00372739  0.03937928  0.01877787 -0.04463619  0.00326868
+  -0.03482075]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.05776595  0.08333495  0.11972603  0.00573857  0.09109803 -0.14548934
+   0.02798764]
+ [ 0.0574347   0.13074416  0.09733421  0.15652609 -0.0426541   0.07866355
+   0.15518439]
+ [ 0.13508193 -0.05713563 -0.11263612  0.09434499 -0.12440078  0.06542827
+  -0.0202343 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.53%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.06583581  0.02155358  0.04211227 -0.16173922  0.1566825  -0.03672786
+   0.06860085]
+ [-0.07582959 -0.16524294  0.11394949 -0.03685549 -0.00589285  0.00751103
+  -0.05904172]
+ [ 0.03895988 -0.03874134 -0.10895818 -0.02654092  0.10783704 -0.06553484
+  -0.0959507 ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.04038998  0.16247836  0.13491762  0.00166011  0.20135559  0.01926865
+   0.06982131]
+ [-0.12538052 -0.11120076  0.05995604  0.04701263  0.07002138 -0.00453402
+   0.05074831]
+ [ 0.16891879  0.1007012   0.02367837  0.03538046  0.00999957 -0.089644
+   0.14102869]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 4.71765213e-02  2.94022523e-02  5.35809882e-02 -8.10851753e-02
+  -1.02080554e-02  8.18919018e-03 -2.01799087e-02]
+ [-3.49419191e-03  7.86280446e-03  7.23630004e-03 -5.26827462e-02
+  -8.95466059e-02 -5.35075814e-02  2.10384186e-02]
+ [-1.41508365e-02  4.47290912e-02 -7.26526231e-02  9.20800865e-02
+  -1.27316281e-01 -8.76018479e-02  6.45872205e-05]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06747853  0.05293584  0.06033982  0.02673158 -0.10657454 -0.11381598
+   0.03951008]
+ [-0.06015466  0.07372909 -0.07993363 -0.00395692  0.02461963  0.00616807
+   0.11221389]
+ [-0.13512486  0.09422026 -0.07095655  0.1249716  -0.02254593  0.00367375
+   0.05147348]], shape=(3, 7), dtype=float32)
+Test accuracy: 29.81%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.03596684  0.02892823 -0.04829701  0.09797501 -0.04716955  0.06371778
+   0.05838242]
+ [-0.01843052 -0.01941983 -0.02116189 -0.01574647  0.07634649 -0.04087413
+   0.03217684]
+ [ 0.01724439  0.06275386  0.01044555  0.06447759 -0.03410032  0.01438954
+   0.07165013]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.0226711   0.03828461  0.00756792 -0.05537122 -0.01937544 -0.05193894
+   0.00716481]
+ [-0.00991494  0.04354259  0.06426746 -0.04300509  0.05327811  0.01109011
+   0.00986366]
+ [ 0.01393569  0.05598988 -0.14027561 -0.04776371  0.07529821 -0.00240976
+   0.07722495]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 8.8252731e-02 -1.5136123e-02  1.9511707e-02 -3.9637726e-02
+  -6.1973471e-02 -7.8584224e-02  9.6058406e-02]
+ [-2.0674616e-04 -1.3051057e-01 -9.3292043e-02 -4.8415788e-02
+   9.1547407e-02 -1.2683012e-01  1.5989669e-02]
+ [-7.9663865e-02 -2.4765468e-01  3.6069881e-02 -1.5384714e-01
+  -1.1605250e-02 -8.8523224e-02 -1.4795347e-01]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.03086718  0.03421437  0.0662162   0.01664214 -0.02345677 -0.00254032
+   0.02539329]
+ [ 0.11665952  0.03891252  0.01825221  0.15703462  0.00855557 -0.00718017
+   0.06882207]
+ [-0.20182624 -0.09232853  0.07738675 -0.17145455 -0.10771544  0.03977573
+  -0.08780755]], shape=(3, 7), dtype=float32)
+Test accuracy: 16.95%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.08105847  0.01541749 -0.08838788  0.0149163   0.09847414  0.00860307
+  -0.03685734]
+ [-0.01647504 -0.01258775 -0.16190964 -0.01278063  0.04968741  0.09700013
+   0.07482256]
+ [ 0.00046151  0.00581916 -0.014565    0.02637421  0.06478562 -0.08621792
+  -0.04356546]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.03915459 -0.08865653  0.08353391 -0.00579739  0.10043424 -0.03879115
+   0.13686445]
+ [ 0.07282633 -0.00058829  0.07072167 -0.08662175  0.03423508 -0.10118433
+  -0.04097651]
+ [ 0.02692176 -0.02100137 -0.1350365  -0.06627217  0.11622258 -0.02283244
+   0.10112416]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.13433631  0.12206388 -0.14509863 -0.08800675 -0.05132296 -0.13395177
+   0.06530999]
+ [ 0.14733908  0.10717637 -0.17106377 -0.00856544 -0.02664778 -0.1819821
+  -0.01638466]
+ [ 0.05904786  0.1506455  -0.01204374  0.12077434  0.03330946 -0.09955493
+   0.01161206]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.05810101 -0.10246797 -0.0500848   0.01154355 -0.03623845 -0.02170446
+  -0.011132  ]
+ [ 0.00982558 -0.09099875 -0.07761021  0.01107017 -0.07092948  0.1347832
+   0.05667315]
+ [-0.17125233  0.01703655 -0.01548737  0.05958958 -0.02664066  0.0297579
+   0.05943687]], shape=(3, 7), dtype=float32)
+Test accuracy: 18.48%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.09140055 -0.01121343 -0.02037616  0.10272086 -0.03250331  0.09135839
+  -0.06829937]
+ [ 0.2461097  -0.17399485 -0.08317822 -0.18139656 -0.00271256 -0.00346864
+  -0.02823273]
+ [ 0.00523319  0.02143571 -0.02766627  0.05484859  0.00079154  0.02536805
+  -0.10738751]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.03667916 -0.00919573  0.02222044  0.03326407  0.02233605 -0.13673714
+   0.00827076]
+ [ 0.08104187 -0.14273393 -0.04247652 -0.11236104  0.02927284  0.02207224
+  -0.03725218]
+ [ 0.07080393  0.03085272 -0.04656541  0.13162352 -0.0302348   0.03446005
+   0.01981081]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.07756061 -0.1038186   0.00930212 -0.14242676  0.02627071  0.0475521
+   0.186884  ]
+ [-0.07190757  0.03607905 -0.06080665 -0.02034431  0.0243045  -0.04081076
+   0.07494251]
+ [ 0.05637891 -0.15834075  0.07060384 -0.04246313 -0.0507191   0.07259234
+   0.05915951]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.04686853 -0.00090853  0.02831192  0.10275932  0.00100556 -0.14000413
+  -0.07400198]
+ [ 0.00310111 -0.08695337  0.10726058 -0.01739541  0.00416502 -0.01964635
+   0.14428627]
+ [-0.08837087  0.00313603 -0.0575494   0.0650861   0.07814965 -0.0840548
+  -0.0958138 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 18.07%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.01980758 -0.04230125 -0.01218535  0.03600451  0.02160342  0.03553631
+  -0.07961327]
+ [-0.01987126 -0.08117918 -0.07178339  0.01110318 -0.05462297 -0.00816788
+   0.00444148]
+ [-0.06614856  0.09505557 -0.07304113  0.0102738   0.05781776 -0.05129357
+  -0.06966309]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.06365363 -0.04470173  0.06112761  0.09243046  0.01606303 -0.05859278
+   0.0147899 ]
+ [-0.04607251 -0.03011096 -0.03569373 -0.13092142  0.01154236  0.03701196
+  -0.15917234]
+ [ 0.07590539  0.19924058 -0.14954223  0.13799252  0.04612321  0.20878612
+   0.11369658]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.03964575 -0.08319698  0.04659504 -0.01836322 -0.01524852 -0.00994639
+   0.05776908]
+ [-0.00685744 -0.07179078  0.01324264 -0.14671189 -0.05136196  0.0845563
+   0.01030683]
+ [ 0.09221552 -0.00638104  0.027233    0.05414847 -0.14146894  0.1629732
+   0.09864059]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.06609356 -0.02991267  0.2310965   0.23857264 -0.10045073 -0.05990717
+  -0.14612861]
+ [ 0.06435721  0.02112366  0.04828874 -0.15208003 -0.10191476  0.06235255
+   0.1969433 ]
+ [-0.14317109  0.07751981 -0.03749214  0.06937526 -0.02267962 -0.03585074
+   0.15985784]], shape=(3, 7), dtype=float32)
+Test accuracy: 21.89%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.0908071   0.06467956 -0.11618569 -0.04767115 -0.07850628 -0.18090622
+  -0.07555304]
+ [ 0.04631515 -0.08514958 -0.00735131  0.15400065 -0.01681438 -0.04378792
+  -0.044492  ]
+ [-0.10510819  0.01983173 -0.09437986  0.03130848  0.05865071 -0.11669891
+  -0.04807134]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.1115834   0.00316008  0.03030968  0.03901076  0.03998147  0.02013779
+  -0.07041527]
+ [ 0.08958521 -0.07201197  0.07724407  0.13110578  0.09898378  0.01185187
+  -0.03074587]
+ [-0.03145613  0.08491508  0.09166378  0.00462494 -0.07622073 -0.06882767
+   0.01836073]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.08097035 -0.03338809  0.06106251  0.03999719 -0.07719326 -0.08623446
+   0.02424248]
+ [-0.05292856 -0.07487161  0.03138976  0.03143014 -0.08137175 -0.07539451
+   0.04677489]
+ [-0.02578143 -0.03931897  0.06263205  0.14862408 -0.0685726  -0.03580825
+  -0.05564903]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.01404985 -0.04661104 -0.02695712 -0.09643628 -0.05314054 -0.03092478
+   0.01199543]
+ [ 0.04968734 -0.01083004  0.05740344 -0.05834454  0.05136451  0.01219128
+  -0.19041431]
+ [ 0.0357058   0.10537456  0.03838632  0.0548498   0.07377119 -0.08863779
+  -0.02174607]], shape=(3, 7), dtype=float32)
+Test accuracy: 25.91%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.01741822 -0.00086892  0.01975016  0.0399872   0.04353212  0.00143508
+  -0.02944678]
+ [-0.08929273 -0.04590557  0.20254594 -0.11725172  0.0774463   0.02109255
+   0.05830748]
+ [-0.05820218  0.01171839  0.04383698 -0.08341002 -0.00230345  0.00425259
+  -0.01908894]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.1002613   0.10609814 -0.17928067  0.04096713  0.03052384 -0.02671485
+  -0.02964264]
+ [ 0.03334143  0.02830208 -0.0254157  -0.05344709  0.03342919  0.10423868
+   0.11141592]
+ [ 0.08520186 -0.02804861 -0.02693958 -0.16427937 -0.13220464 -0.02397358
+   0.16409653]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.04216776 -0.06645181  0.04057031  0.13717829 -0.1199947   0.07457908
+   0.11995467]
+ [ 0.0473791   0.04239292 -0.14858861  0.02512154  0.08752359 -0.0367334
+   0.05501345]
+ [ 0.02103312 -0.06108266  0.04042964  0.00588144  0.10462796 -0.17596385
+  -0.02998157]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.04779503  0.06783803 -0.05241526  0.0220269   0.02272304  0.0128993
+   0.0453236 ]
+ [-0.00092701  0.10476725 -0.02362399 -0.04558308 -0.04462116  0.02112388
+   0.07652349]
+ [-0.08901262 -0.06827422 -0.03846165 -0.04873588 -0.02388415 -0.02635691
+  -0.05157825]], shape=(3, 7), dtype=float32)
+Test accuracy: 21.44%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03023713  0.1037893   0.0750695  -0.02827914  0.04129623  0.03829862
+   0.14187208]
+ [ 0.08578221 -0.15098463 -0.04209745 -0.0537216  -0.06852979 -0.07537105
+  -0.04558324]
+ [ 0.01008954  0.07683113  0.03645794 -0.01322169  0.15270907 -0.01388058
+   0.09082212]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.0957969  -0.04057447 -0.02992127  0.07731247 -0.011142    0.01418197
+  -0.03342535]
+ [-0.05567355 -0.1573798   0.22427744  0.28354716 -0.11644506 -0.14854077
+  -0.0782035 ]
+ [ 0.01833716 -0.05172549 -0.05553102 -0.07455828 -0.18562216 -0.08449046
+   0.07595058]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.2899468   0.01735295  0.13000208  0.26807368 -0.03334671 -0.13322408
+  -0.007173  ]
+ [-0.15094642  0.03343536  0.1219773   0.13694046  0.02987579  0.02605586
+  -0.03874183]
+ [-0.17823762  0.0463506   0.11422552  0.2196516  -0.06322554 -0.03033927
+   0.06257024]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.03689616 -0.09429795 -0.17601937  0.02008907 -0.02820214 -0.04168391
+  -0.04697113]
+ [-0.02476892 -0.06971459  0.05985114 -0.06754    -0.02025216  0.05950054
+   0.0158539 ]
+ [ 0.12017801 -0.07099447 -0.1638098   0.07676204  0.06224434  0.02420246
+  -0.03791628]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.26%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03115368 -0.07791752 -0.006745    0.04277179  0.08365971 -0.02294715
+   0.02047285]
+ [-0.0960806  -0.05392759 -0.06485924 -0.04192563  0.09608975  0.04284383
+  -0.01113897]
+ [ 0.08177657 -0.0618216  -0.07818772 -0.01799558 -0.0009046  -0.13429232
+   0.05912622]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.02452297 -0.01980058 -0.04932281  0.07896005  0.01054397 -0.08736327
+   0.11931399]
+ [ 0.12750548 -0.07975426  0.04280116  0.11019083 -0.14138561 -0.18041974
+  -0.2281219 ]
+ [ 0.17887425  0.04432416  0.20969018  0.06087344 -0.11763317  0.05264695
+  -0.20753583]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.02002856 -0.05865185  0.03315798 -0.12177295 -0.01417483 -0.01335574
+   0.05763873]
+ [-0.15656762 -0.06675665 -0.02655034 -0.13353764 -0.04538789 -0.02399339
+   0.04002421]
+ [ 0.03250028  0.13185626 -0.02810687  0.12691966  0.09893573  0.00921596
+  -0.08924673]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.02196557 -0.02273267  0.06628015 -0.13881227 -0.06530368 -0.13855807
+  -0.02085392]
+ [ 0.06581113  0.12193143  0.0060428  -0.04958045  0.2225615   0.30665895
+   0.0010619 ]
+ [-0.08368739 -0.04668695 -0.06579633  0.1293251  -0.19067669 -0.16788514
+   0.03266463]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.98%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-1.6105689e-02  1.3513544e-01 -1.0809595e-01  3.3170294e-02
+   7.9253670e-03  1.9781291e-06 -1.4057674e-01]
+ [ 2.5096016e-02 -1.2867987e-01 -5.3463750e-02 -5.0887175e-02
+  -1.3681562e-01 -1.6218280e-02  3.0745840e-02]
+ [-1.1966791e-02  9.0134926e-02 -7.2789878e-02 -6.0633168e-02
+   3.8224650e-03 -3.6327597e-02 -6.4554721e-02]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.02942929 -0.15586977 -0.13150117  0.12359039 -0.05955251  0.05917191
+  -0.01648711]
+ [ 0.0047887   0.00379035 -0.07198045  0.0471491   0.00429542  0.14423814
+  -0.02488581]
+ [-0.11278799  0.01688498 -0.01881991  0.07573555  0.00449064  0.01254848
+   0.00804057]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.11823566  0.16913226  0.11351318  0.12030284  0.23662126 -0.01947876
+  -0.16955142]
+ [ 0.09147403  0.09826963  0.0394044  -0.0263204   0.3624659  -0.05312882
+  -0.22852743]
+ [-0.01740447  0.03586254 -0.021801   -0.0430081   0.16266236 -0.14281854
+  -0.12860179]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.06373268 -0.02517651  0.08383656  0.01555134  0.12669145  0.03216955
+  -0.0016374 ]
+ [ 0.0965068  -0.01874285 -0.0070759   0.04083588  0.14728045  0.06845751
+  -0.03383316]
+ [ 0.0780656  -0.09141262  0.00588616  0.04068145 -0.02066032  0.02202555
+   0.05024277]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.0%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.04710741  0.02416594 -0.03757612 -0.02515887  0.19415689 -0.3354767
+   0.10076513]
+ [-0.13193244 -0.07599491 -0.02285185  0.17148848 -0.00767956 -0.22657149
+   0.11057526]
+ [ 0.0489265  -0.00104906 -0.09528969 -0.06558484  0.0976098  -0.13173056
+  -0.08715445]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.13873994 -0.00145325 -0.00877772  0.02476854 -0.05470278  0.14876576
+   0.0713195 ]
+ [ 0.00373934 -0.03306232  0.08683866  0.02880121 -0.06884021  0.01687355
+  -0.07800622]
+ [-0.08599005 -0.03912746 -0.0313835   0.04048102 -0.06540278  0.02405282
+  -0.08394203]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01552055  0.0481876   0.03657689 -0.12305449 -0.01261631  0.1053168
+   0.06944393]
+ [-0.04082503  0.05122883  0.01803013 -0.08653966  0.07878402  0.03408199
+  -0.03716062]
+ [-0.06715031  0.0218508   0.03624472  0.11289088  0.06767929 -0.11084322
+   0.02374258]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.02198624 -0.05691497  0.14059323  0.11778942 -0.05176148 -0.0658543
+  -0.04836998]
+ [-0.09944507 -0.0131856   0.0754218   0.03383043  0.03207104 -0.04823374
+  -0.00814703]
+ [-0.04005438 -0.02727159 -0.01251632  0.07667807  0.00599853 -0.04006897
+  -0.03550619]], shape=(3, 7), dtype=float32)
+Test accuracy: 18.8%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.08189198 -0.11985518  0.13227424  0.00904993  0.09652198  0.07237216
+  -0.04892521]
+ [ 0.03330883 -0.10403782  0.08824064 -0.06576286  0.20054242  0.16280055
+  -0.18631884]
+ [-0.00350578  0.1649556  -0.06932604  0.03433761 -0.09586123 -0.01359547
+  -0.0299905 ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.07488947 -0.17594583 -0.03006396 -0.02682814  0.00962009  0.02350365
+   0.00058588]
+ [ 0.11155804 -0.11828122  0.01078945 -0.0202136  -0.04498529 -0.15261963
+   0.06588006]
+ [-0.11901168  0.1010985   0.07866768  0.10864964 -0.01653875  0.04603038
+  -0.1122596 ]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.06299572 -0.26320726 -0.09591183 -0.16062878  0.01648375 -0.08873825
+   0.06780329]
+ [ 0.07922817  0.01286086 -0.04111382 -0.02607021 -0.08016159 -0.04471628
+   0.06356411]
+ [ 0.07758278  0.06182535  0.0678975  -0.05687208  0.05652453 -0.01328033
+   0.06932299]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.01503993 -0.15519248  0.04777211 -0.13360196 -0.13078198  0.13675876
+   0.07027066]
+ [ 0.03597138  0.03028894  0.01787453  0.16694808  0.00565404 -0.01074223
+  -0.04942648]
+ [-0.01830579  0.01741565  0.04960541 -0.03174573 -0.05273727 -0.12511466
+  -0.08438346]], shape=(3, 7), dtype=float32)
+Test accuracy: 22.05%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.04380441  0.04948372  0.01294758 -0.04553446  0.01580607 -0.01737547
+   0.03598275]
+ [-0.02152183  0.04223922  0.04194714 -0.02747783  0.01476761 -0.07189407
+   0.01781391]
+ [ 0.10947728 -0.00885756  0.18309821 -0.03869479  0.05362171 -0.0139976
+  -0.08603499]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.05968263 -0.02421728 -0.03158815  0.01533441 -0.07019681  0.04797901
+   0.05854587]
+ [-0.00263688 -0.01699226  0.00746354  0.01122981  0.01194933 -0.01091063
+  -0.07692694]
+ [ 0.01198147  0.08016995 -0.06802969 -0.10380563 -0.02453086  0.02497411
+   0.10316575]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.04126333 -0.11158396  0.12024288 -0.07212539 -0.08047481  0.17387189
+   0.02236646]
+ [-0.01013526 -0.09969673  0.11654417 -0.13907167 -0.05483107  0.03449308
+   0.08660181]
+ [-0.0439707  -0.00350432 -0.03010336  0.03385814 -0.07420871  0.06730884
+  -0.05624036]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.02824906 -0.02801756  0.0086998   0.02363012  0.11131044  0.10907142
+   0.03766077]
+ [-0.04597018 -0.09742317 -0.08612469  0.0086937   0.15564686  0.0573216
+  -0.06251265]
+ [-0.03480843 -0.14818358 -0.08068373 -0.0366758   0.14895357  0.10727475
+  -0.07280049]], shape=(3, 7), dtype=float32)
+Test accuracy: 27.57%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03355151  0.07171616 -0.01288343 -0.04785419 -0.00546845 -0.23492013
+   0.0365671 ]
+ [ 0.04377728 -0.03097337  0.1505202   0.07182841 -0.14470184  0.1934993
+  -0.10498179]
+ [-0.0086472  -0.00202299  0.07024443 -0.04802281 -0.02185775 -0.11870024
+  -0.11715055]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.03831274 -0.0506733   0.00618115  0.01108597  0.11918657 -0.0354105
+  -0.02313916]
+ [ 0.04341241 -0.03995368 -0.04534924  0.02087688  0.10475007 -0.02200072
+  -0.08036375]
+ [ 0.06179258  0.02600496 -0.03760725 -0.08361088 -0.11590833  0.03177047
+   0.08524408]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.04678571 -0.04098395 -0.07686943  0.06373663 -0.04365408 -0.01450556
+  -0.12692207]
+ [ 0.00155658 -0.10275689  0.06717242  0.04258662 -0.01953798  0.0135645
+  -0.06214719]
+ [-0.06491704 -0.0201224   0.03537904 -0.08378784 -0.12302563 -0.05533962
+   0.05729526]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.19138956 -0.14729087  0.04281829  0.26608437  0.00629055 -0.13992612
+   0.13919456]
+ [-0.04211278 -0.13071655  0.01518893  0.00527338 -0.02818474 -0.20976633
+   0.10837407]
+ [ 0.11611508  0.08870609 -0.07527467 -0.09696674  0.0675984   0.00770857
+  -0.01502836]], shape=(3, 7), dtype=float32)
+Test accuracy: 25.07%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.04763824 -0.01544499 -0.00659765 -0.04745868  0.13304733  0.04163919
+   0.04744682]
+ [ 0.1389696   0.04415396 -0.04329307 -0.00258424  0.06258839  0.00643062
+   0.02790695]
+ [-0.11421131 -0.00364877  0.10270239  0.04749466 -0.06160826  0.00317527
+  -0.014382  ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.09604891 -0.00415058  0.11498769  0.06677961 -0.01510856 -0.02003612
+  -0.18904799]
+ [ 0.00791019 -0.00611482  0.1378528   0.06081304  0.04918812  0.04157962
+  -0.01996819]
+ [ 0.04634127  0.05045636  0.09064603 -0.00089509 -0.04219    -0.01588756
+  -0.05314923]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01314427  0.02369907 -0.06589071 -0.07365759  0.06201592 -0.09259716
+  -0.13657472]
+ [-0.1051963  -0.1338484   0.11813133 -0.01581557  0.05022367 -0.06770697
+  -0.20765999]
+ [ 0.05939002  0.04410611 -0.05161897 -0.02657591  0.0114333  -0.00546452
+   0.04427526]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.06706583 -0.06350227  0.03761883 -0.0946839  -0.0605468  -0.03637569
+  -0.04191599]
+ [ 0.02046123 -0.07550943  0.02924545  0.04962116 -0.0265165   0.0356133
+   0.06474859]
+ [ 0.02052038 -0.0372893  -0.08528943 -0.02171789 -0.11977427 -0.17416415
+  -0.06788089]], shape=(3, 7), dtype=float32)
+Test accuracy: 28.08%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.01221055  0.08808115  0.07197101  0.05409858  0.20705184 -0.03404373
+  -0.00399677]
+ [-0.11830719  0.1042808   0.09301119 -0.00482988  0.09781587 -0.10986808
+  -0.01625048]
+ [ 0.08492429  0.00937964 -0.05677201 -0.02370769  0.03553177 -0.06656577
+  -0.17079012]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.17985377  0.04143943 -0.04507858 -0.07459307  0.06930134 -0.06303879
+  -0.01751043]
+ [ 0.01870226 -0.00503868  0.00245251 -0.07544143  0.02827318 -0.15379497
+   0.09434325]
+ [-0.15739408 -0.12992746  0.03038441 -0.04639037 -0.01941163 -0.15683311
+  -0.02845931]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.01896307 -0.00805725 -0.13088346 -0.06213134 -0.06532671  0.0680876
+   0.05054487]
+ [-0.06495129 -0.02433683 -0.16254836  0.08298366  0.03765286  0.04539356
+   0.09395153]
+ [-0.02480974  0.0429335  -0.17722945  0.11661457  0.10719475  0.1171132
+   0.14513987]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.13316168  0.01851556 -0.03080216 -0.02046558  0.10365026 -0.02424465
+  -0.01340544]
+ [ 0.00728372 -0.02149348  0.10132302 -0.01124594 -0.1356813   0.13804838
+  -0.00365809]
+ [ 0.13025475  0.11866651 -0.09564806 -0.16657378  0.0958289   0.07139641
+  -0.13651648]], shape=(3, 7), dtype=float32)
+Test accuracy: 29.28%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.05871714 -0.04695915 -0.00147982 -0.11308424  0.03167094  0.1645976
+  -0.0935462 ]
+ [-0.01847622 -0.09971354  0.09114771  0.16936189  0.01258946  0.15475011
+  -0.02643166]
+ [ 0.06877154 -0.0341979   0.09437595  0.08343295 -0.04445542  0.03079433
+   0.06784783]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.01856795 -0.08632245 -0.13837264  0.06155088 -0.0060231  -0.11161298
+  -0.02374846]
+ [ 0.04268303 -0.05683556 -0.03462692  0.10397446  0.1408228   0.01025161
+   0.01253489]
+ [-0.02963668  0.00806877  0.00743047  0.02494181  0.15027964  0.04522958
+   0.03561408]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.06480475 -0.09366618 -0.02599834 -0.09619787 -0.00167128  0.00345767
+  -0.02654299]
+ [ 0.18704197 -0.00971437  0.02003949 -0.09413266  0.08923375  0.03318266
+  -0.12725747]
+ [ 0.21603969  0.04468489 -0.01374177 -0.19692403  0.00370836 -0.15685505
+   0.00165081]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.05406746 -0.09075134  0.05229127  0.02370716  0.03408297  0.00218845
+  -0.06211646]
+ [ 0.02713902 -0.11674054  0.02440922 -0.0209886  -0.05084171 -0.08803193
+   0.02468618]
+ [ 0.11889385 -0.06469882 -0.14265153 -0.13767281  0.10822828  0.0487028
+  -0.0403685 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 21.98%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.04051758  0.02170115  0.1488781  -0.06541193  0.05115835 -0.02678625
+   0.01196321]
+ [-0.02951144  0.1221456  -0.03319015  0.02849566  0.02223674  0.04180712
+  -0.02457247]
+ [-0.02038226  0.04969708 -0.0311523  -0.07493053  0.05516278  0.04503233
+   0.00614351]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.0136876   0.14946592 -0.09063226  0.11154698  0.0016386   0.16817999
+  -0.16671233]
+ [-0.02009167  0.10178647 -0.07121577  0.07746468  0.01632724  0.11516368
+  -0.08979966]
+ [ 0.01089859 -0.19847381  0.15457875  0.05074353 -0.19756317  0.03432704
+  -0.05974458]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.01003899 -0.11588443  0.04609879 -0.08048131  0.05692641 -0.00874463
+  -0.07336278]
+ [ 0.09366448  0.05002611 -0.07207859 -0.02234308  0.0540988  -0.0732486
+   0.03086136]
+ [-0.0486724  -0.0681792   0.08158659 -0.03609907 -0.0150852   0.02884615
+  -0.03706662]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.2112141  -0.06204395 -0.07330861  0.00941854 -0.02312097 -0.09837808
+  -0.0710666 ]
+ [ 0.08584909 -0.05443976  0.07209723  0.00545082 -0.03337933  0.030249
+  -0.14970939]
+ [ 0.06806958 -0.03463362 -0.01108255 -0.05715106 -0.15038633 -0.06710719
+  -0.15886089]], shape=(3, 7), dtype=float32)
+Test accuracy: 19.01%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.08316359 -0.05876521 -0.07576413 -0.03544176  0.03438218 -0.07646705
+  -0.1446043 ]
+ [ 0.07889222  0.1621966  -0.05990957  0.17539838 -0.02691784 -0.1078462
+   0.02362036]
+ [-0.02176451 -0.04464969 -0.04436528 -0.02149191 -0.0360803   0.02616036
+  -0.038567  ]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.06922203 -0.00186478 -0.0602552  -0.16342361  0.06488958  0.07334743
+   0.16996075]
+ [ 0.10086659  0.08931453  0.05945403  0.07057963 -0.07751638 -0.05129339
+  -0.00758173]
+ [ 0.03635288 -0.03970735 -0.22867414  0.05180359 -0.08585961  0.01659802
+  -0.02126546]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.04863419 -0.00831671  0.04372791  0.16182102  0.00610366  0.07784952
+  -0.0809449 ]
+ [-0.1286306  -0.05622283  0.03069962  0.20325041 -0.03676396  0.10783046
+  -0.04023442]
+ [-0.13415073 -0.04171138  0.06498209  0.06916527 -0.08557605  0.15479693
+  -0.01772378]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.03870355 -0.03239767 -0.00361801  0.1315534   0.07282069  0.14685848
+  -0.08442521]
+ [ 0.05059499  0.027224    0.04829411  0.07924963 -0.00169724 -0.02717561
+  -0.01302469]
+ [-0.00073483 -0.12444498  0.06042811  0.14037699  0.0681967  -0.09974771
+  -0.23527314]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.6%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.03848897  0.14407845  0.02868591  0.02984073 -0.04552599  0.06298281
+  -0.14159279]
+ [ 0.0440654   0.06621104 -0.01832657  0.07164349  0.16332763 -0.02939873
+  -0.00151971]
+ [ 0.02490337  0.07539488  0.0430745   0.22703607  0.12156051  0.0282462
+   0.11241722]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.03282544  0.06056726 -0.06222541 -0.09717295 -0.03295442  0.04492708
+  -0.05874336]
+ [ 0.09390745  0.06020952 -0.02165277  0.06402655 -0.00281858 -0.01557922
+  -0.16866806]
+ [-0.04136347  0.06242438 -0.05913873 -0.23698105  0.01452461 -0.05866532
+  -0.16608265]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.27357072  0.05605574 -0.03310148 -0.09086995 -0.02895251  0.10859276
+   0.1242597 ]
+ [-0.30148435  0.05595047  0.00517825 -0.06454113 -0.01955086  0.07591985
+   0.08903973]
+ [-0.04399614  0.05037066  0.02929326 -0.12473682 -0.1093147   0.14733487
+   0.17531028]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.00656405  0.04164281  0.05164714 -0.07190416  0.0261231  -0.00109679
+  -0.03154641]
+ [-0.15011278 -0.08337239  0.03711181  0.03292231  0.08884864 -0.03146818
+  -0.07077668]
+ [-0.02756648 -0.1025763  -0.04510523 -0.06186968  0.1019978   0.04686828
+  -0.01998162]], shape=(3, 7), dtype=float32)
+Test accuracy: 26.86%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.02057642 -0.13412032 -0.04817032  0.2065157  -0.03397693  0.02696789
+   0.04766922]
+ [-0.12200652 -0.157742   -0.13633884  0.20610255 -0.03463504  0.29362094
+   0.16734783]
+ [ 0.09672395 -0.08903892  0.03331758  0.08677732 -0.05234859  0.02061651
+  -0.07215466]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.02443556  0.01001469 -0.04685135 -0.01438026 -0.06886043  0.04533243
+   0.02767491]
+ [ 0.00393162  0.03329269 -0.05140831 -0.05383094  0.0253145  -0.05179758
+   0.02144286]
+ [-0.04754412  0.06201693 -0.02041737 -0.04013252  0.06922402 -0.09696345
+  -0.03181046]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.06151287  0.00954784  0.07817313  0.08676863 -0.08192582  0.05220457
+   0.18095456]
+ [ 0.05493412  0.01112785  0.09050332  0.11330022 -0.00582415  0.17136043
+   0.23670012]
+ [-0.04786854  0.1399986  -0.02907537  0.08408108 -0.09840769  0.09800296
+   0.1767433 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.10605209  0.1665324   0.05919087  0.00567474  0.02059433 -0.10039248
+   0.00018694]
+ [ 0.1250047   0.05419598  0.15411134  0.08917385  0.18448761 -0.1558662
+   0.18460408]
+ [-0.04635527  0.01606204  0.0446677   0.12479782  0.1206626   0.01610583
+   0.14001228]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.14%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.2966581   0.11777366  0.07459565  0.18440758 -0.07557105  0.14240405
+  -0.12945919]
+ [-0.07101335 -0.0674815  -0.08219795  0.07243099  0.03894326 -0.00893128
+  -0.24624911]
+ [-0.11104152 -0.00640265 -0.04784064 -0.00710062 -0.05679421 -0.05510622
+   0.09037293]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[-0.06431243 -0.14828424 -0.15681674 -0.12842853 -0.24498537  0.00432558
+   0.08737555]
+ [ 0.00378461  0.01180044  0.02728949  0.10099554  0.08181807 -0.00539896
+   0.05943295]
+ [ 0.0764619  -0.0234551   0.01493917  0.14978313  0.11157832 -0.06538942
+  -0.11596375]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.02881647 -0.22936219 -0.12700225  0.03618156  0.12782443 -0.0237747
+  -0.02378684]
+ [-0.06725806 -0.00723299  0.04423955  0.07806136 -0.02498592 -0.06157061
+   0.04339867]
+ [ 0.02618279  0.13763005  0.09774803  0.00796019 -0.04743332  0.02456428
+   0.0407335 ]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.04195168 -0.05553121 -0.0057795   0.16073377  0.03303278  0.0089377
+   0.03063887]
+ [ 0.03207808  0.06039303 -0.02147023  0.16790436 -0.08419815 -0.02067437
+   0.13257968]
+ [-0.00895745  0.04833149  0.01226278  0.02224327  0.03249761 -0.06897665
+  -0.09604046]], shape=(3, 7), dtype=float32)
+Test accuracy: 19.08%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.02087526 -0.12422317  0.37775704 -0.13685712  0.09260669 -0.17825784
+  -0.21417868]
+ [-0.13410112 -0.07489126  0.25261927 -0.21406637  0.05009566 -0.09193358
+  -0.2039375 ]
+ [ 0.01940568  0.03739222 -0.02880482 -0.14150766 -0.01736387 -0.15503083
+   0.03990539]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.04450144  0.10492067 -0.17535284 -0.00968521  0.07122021 -0.09333053
+  -0.04675873]
+ [-0.09244058 -0.0790023   0.0528199   0.06648234 -0.01884638  0.08684887
+   0.07400624]
+ [ 0.01783437 -0.0609837  -0.0347148   0.06387585 -0.02378326  0.07545041
+   0.04152061]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.0036215   0.03475055  0.11567256  0.07752093  0.10682818  0.13387962
+   0.1784    ]
+ [-0.024359    0.06098686  0.04987741 -0.09504525 -0.14305137 -0.08504979
+   0.09650886]
+ [ 0.10786207  0.01871128 -0.0380321   0.08219009  0.05179286 -0.07640776
+   0.09287524]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.08360139  0.03049168  0.03814761 -0.0500753  -0.06223276  0.00660301
+  -0.15594909]
+ [-0.06457213  0.09372166  0.04547158  0.01656094  0.01303772 -0.0595527
+  -0.01278152]
+ [ 0.00808251  0.03892671  0.00295391 -0.0092816   0.08545189 -0.08970508
+   0.08812898]], shape=(3, 7), dtype=float32)
+Test accuracy: 31.14%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.02205291 -0.04515767 -0.17034695 -0.02848116  0.1021965  -0.09262289
+  -0.00373647]
+ [ 0.01031448  0.01138713  0.11635693  0.10366116 -0.00546785  0.11534163
+   0.15882713]
+ [-0.02823494 -0.0465473   0.00614969 -0.00113177 -0.07212977  0.08159904
+  -0.11628417]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.02890433 -0.11680338  0.02882111 -0.06867087  0.0134383  -0.07495067
+  -0.05107756]
+ [ 0.06446634 -0.14302418  0.10257101 -0.00205585 -0.01473217 -0.04799714
+  -0.11244965]
+ [ 0.00152433  0.11162716 -0.01876894  0.02398999  0.00677081  0.05142587
+   0.02937832]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.1013329   0.0748377  -0.02111334 -0.00279312  0.08906874 -0.04314163
+  -0.03669786]
+ [ 0.14671779 -0.05515942  0.07458597  0.06706809 -0.03097064  0.0478654
+   0.09290429]
+ [ 0.03216058  0.04019233 -0.14847541  0.09945502 -0.08867512 -0.01961363
+   0.08030838]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.04977408  0.10569116 -0.03836272  0.07192255 -0.18863     0.02439051
+  -0.07208952]
+ [ 0.11731215 -0.06011726 -0.02432851  0.22170426 -0.04646659 -0.0770272
+  -0.10206451]
+ [ 0.03989048 -0.08894087  0.01090596 -0.02734727  0.02790218  0.01409178
+   0.0305284 ]], shape=(3, 7), dtype=float32)
+Test accuracy: 23.17%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[ 0.01721353 -0.04517503 -0.03679604  0.0407139   0.17540362  0.07829849
+  -0.06173368]
+ [ 0.07291702  0.09139056  0.02851133 -0.03787451  0.05728222  0.0126083
+   0.01842482]
+ [ 0.05952753  0.06596119 -0.02367015  0.02574756  0.09035632  0.06316658
+   0.02096175]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.05161035 -0.08224475  0.01456423 -0.01251253 -0.12428076  0.01794003
+  -0.2187852 ]
+ [ 0.05995305 -0.02465417 -0.05809318 -0.04747789 -0.05241645  0.05313495
+  -0.05805423]
+ [ 0.06976415 -0.01735131 -0.07078531  0.05315259  0.02817566 -0.004424
+   0.00560469]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[ 0.02774515 -0.2122134   0.07699969  0.05837935 -0.01397694 -0.00325596
+   0.08028278]
+ [-0.02312507 -0.08686094  0.02990857 -0.00826561 -0.00194491 -0.02366924
+   0.08786016]
+ [ 0.00906074 -0.18908931  0.1368131   0.00395899 -0.08152196 -0.06581838
+   0.13327338]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[-0.06954661 -0.02085558 -0.07886337  0.03284712 -0.1662811   0.02437028
+   0.12037113]
+ [ 0.07161061  0.14664716 -0.04598229 -0.09140942 -0.12658972 -0.00313986
+  -0.09068786]
+ [ 0.04305067  0.12758516  0.04459583 -0.12917441  0.12211594 -0.08484796
+  -0.02065717]], shape=(3, 7), dtype=float32)
+Test accuracy: 26.57%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
+GNN output shape: tf.Tensor(
+[[-0.02343798  0.07164947 -0.01294839 -0.05576719 -0.00571152  0.14950949
+  -0.03413944]
+ [-0.09229373  0.09423809 -0.07448153  0.17341447  0.01267292  0.20624363
+   0.04964482]
+ [ 0.12026431 -0.10666922  0.10290346 -0.00718771 -0.02405227 -0.28160077
+  -0.02903284]], shape=(3, 7), dtype=float32)
+Model Combining begins...
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5
+GNN output shape: tf.Tensor(
+[[ 0.02590702 -0.00847131 -0.1022099   0.03771379 -0.01083063  0.10892615
+   0.05483702]
+ [ 0.0498707  -0.07764128  0.04408105 -0.01123478 -0.07029543  0.0154459
+   0.06356342]
+ [ 0.13489029  0.08604042 -0.05345933  0.03163331 -0.00737061 -0.12052635
+  -0.08961993]], shape=(3, 7), dtype=float32)
+Here:  /home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5
+GNN output shape: tf.Tensor(
+[[-0.16939895 -0.07408938 -0.05194616 -0.01693281  0.05532453  0.02885512
+   0.01805165]
+ [-0.13510357 -0.05579097 -0.0691422   0.01668134 -0.02160903  0.07860628
+   0.02996425]
+ [-0.02883126  0.00526082  0.03918735  0.06658631  0.04583939 -0.07276832
+   0.07810378]], shape=(3, 7), dtype=float32)
+GNN output shape: tf.Tensor(
+[[ 0.01263725  0.0404113  -0.20109111  0.07051142 -0.1434969   0.0234195
+  -0.04846764]
+ [ 0.07409886  0.12371504 -0.13999875 -0.04336393  0.01501114 -0.12467729
+  -0.00762897]
+ [-0.01540377  0.07957363  0.18152623 -0.05322666  0.00826085 -0.05324042
+   0.11554851]], shape=(3, 7), dtype=float32)
+Test accuracy: 20.45%
+Model Combining successfully completes...
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_0.h5'
+removed '/home/chirag/fl/keras-gnn/cora_partition/FederatedML/Received_Models/model_1.h5'
