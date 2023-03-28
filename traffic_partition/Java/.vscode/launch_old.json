@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Launch MLSend",
+            "request": "launch",
+            "mainClass": "FederatedML_Amazon.MLSend",
+            "projectName": "Java_78a4f1a7",
+            "args": "8001 10.0.2.15 8001 3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MLSend1",
+            "request": "launch",
+            "mainClass": "FederatedML_Amazon.MLSend",
+            "projectName": "Java_9efe53af",
+            "args": "8001 10.0.2.15 8001 3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MLSend2",
+            "request": "launch",
+            "mainClass": "FederatedML_Amazon.MLSend",
+            "projectName": "Java_9efe53af",
+            "args": "8002 10.0.2.15 8001 3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MLSend3",
+            "request": "launch",
+            "mainClass": "FederatedML_Amazon.MLSend",
+            "projectName": "Java_9efe53af",
+            "args": "8003 10.0.2.15 8001 3"
+        }
+    ]
+}
